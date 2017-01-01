@@ -1292,7 +1292,7 @@
   </string>
   <string key="PrinceKilled">
     <value>El Primer Mal ha acabado con todo el Consejo de Vigilantes y entre ellos, estaba su director. {0} ha muerto. </value>
-    <value>Parece ser que los guardias del principe se han dormido esta noche... Se han encontrado los restos de {0} colgados en varias habitaciones del palacio, siendo presa de un cuchillo... Parece que, a pesar de todo, el principe sigue siendo un simple mortal más a manos del asesino en serie...</value>
+    <value>Parece ser que el Consejo de Vigilantes y los han matado a todos esta noche... Se han encontrado los restos de {0} colgados en varias habitaciones de su residencia oficial.</value>
   </string>
   <string key="SeerKilled">
     <value>Los habitantes de Sunnydale se despiertan con el hedor del cadáver podrido de {0}, quien era Xander, el mejor amigo de Willow la Bruja.</value>
@@ -1310,11 +1310,11 @@
   </string>
   <string key="CultConvertWolfPublic"> <!--used when Cultists convert the wolves, only if wolves stayed home-->
     <value>Aunque parecía que los Vampiros habían decidido quedarse en casa, otros vampiro decidió visitarlos, siendo demasiado difícil de resistir para los primeros. ¡La cabeza de {0} se convirtió en una magnífica bola de jugar a los bolos!</value>
-    <value>El culto se encontró con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a otro Vampiro, justo la noche que habían decidido quedarse en casa. Desafortunadamente no tienen ningún interés en unirse a nuestro clan. {0} ha muerto.</value>
+    <value>Los vampiros se encontraron con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a otro Vampiro, justo la noche que habían decidido quedarse en casa. Desafortunadamente no tienen ningún interés en unirse a nuestro clan. {0} ha muerto.</value>
   </string>
   <string key="CultConvertKillerPublic"> <!--used when Cultists convert the SK-->
     <value>Los vampiros pensaban que tendrían un nuevo miembro en sus filas, pero, ¡estaban equivocados! {0}, un vampiro, fue decapitado. El Primer Mal no discrimina y acabará con todos...</value>
-    <value>Anoche, el culto trató de convertir al aldeano más loco del pueblo... Su miembro más reciente, {0}, trató de convertir al asesino en serie, y éste hizo una nueva obra de arte en la plaza del pueblo, exhibiendo todos los órganos internos al pueblo...</value>
+    <value>Anoche, los vampiros trataron de convertir al Primer Mal... Su miembro más reciente, {0}, trató de convertirlo y éste hizo una nueva obra de arte con sus intestinos...</value>
   </string>
   <string key="GAGuardedKiller"> <!-- used when GA guards SK -->
     <value>Se suponía que iba a ser una noche donde {0}, el Wesley, salvaría a Sunnydale de los malvados, pero se topó con el Mal Primigenio... Ahora el vigilante es historia.</value>
