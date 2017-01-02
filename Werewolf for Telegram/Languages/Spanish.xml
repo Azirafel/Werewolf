@@ -6,7 +6,7 @@
   </string>
   <string key="PlayerStartedGame">
     <!-- 0 - Player name -->
-    <value>¡{0} ha vaticinado el Apocalipsis! Un temblor de tierra confirma sus sospechas. Las fuerzas del bien y del mal están a punto de enfrentarse una vez más. Usa /join para unirte y cumplir con tu destino :P</value>
+    <value>¡{0} ha vaticinado el Apocalipsis! Un temblor de tierra confirma sus sospechas. La boca del infierno está a punto de abrirse bajo sus pies. Las fuerzas del bien y del mal están a punto de enfrentarse una vez más. Usa /join para unirte y cumplir con tu destino :P</value>
     <value>¡{0} ha iniciado una nueva partida! ¡Usa /join para recibir un mordisco!</value>
   </string>
   <string key="PlayerStartedChaosGame">
