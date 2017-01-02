@@ -6,16 +6,16 @@
   </string>
   <string key="PlayerStartedGame">
     <!-- 0 - Player name -->
-    <value>¡{0} ha empezado una partida! Usa /join para unirte a la diversión… y probablemente morir :P</value>
-    <value>¡{0} ha iniciado una nueva partida! ¡Usa /join para ser comido!</value>
+    <value>¡{0} ha vaticinado el Apocalipsis! Un temblor de tierra confirma sus sospechas. La boca del infierno está a punto de abrirse bajo sus pies. Las fuerzas del bien y del mal están a punto de enfrentarse una vez más. Usa /join para unirte y cumplir con tu destino :P</value>
+    <value>¡{0} ha iniciado una nueva partida! ¡Usa /join para recibir un mordisco!</value>
   </string>
   <string key="PlayerStartedChaosGame">
    <!-- 0 - Player name -->
-   <value>¡{0} ha empezado una partida caótica! Usa /join para unirte a la diversión… y probablemente morir :P</value>
-   <value>¡{0} ha iniciado una nueva partida caótica! ¡Usa /join para ser comido!</value>
+   <value>¡{0} ha vaticinado un Apocalipsis caótico! Usa /join para unirte a tu destino y probablemente morir :P</value>
+   <value>¡{0} ha iniciado una nueva partida caótica! ¡Usa /join para ser deborado!</value>
  </string>
   <string key="NoJoinGameRunning">
-    <value>¡No te puedes unir ahora! La partida ya ha comenzado.</value>
+    <value>¡No te puedes unir ahora! El Apocalipsis ya ha comenzado. ¡Huye de Sunnydale y ponte a salvo!</value>
   </string>
   <string key="AlreadyJoined">
     <value>¡Ya te has unido!</value>
@@ -28,10 +28,10 @@
     <value>Quedan {0} segundos para unirse con /join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>¡No hay suficientes jugadores, se cancela el juego!</value>
+    <value>¡Las fuerzas del bien y del mal están desequilibradas, se cancela el Apocalipsis!</value>
   </string>
   <string key="StartingGameWait">
-    <value>El juego está empezando, espera un segundo mientras asigno los roles y actualizo la base de datos.</value>
+    <value>El Apocalipsis está empezando, ya sabes cual es tu destino, ve y cúmplelo.</value>
   </string>
   <string key="BannedForExploit">
     <!-- 0 - Player name -->
@@ -57,7 +57,7 @@
     <value>{0} por favor, háblame por mensaje privado (@{1}) con /start. No tengo constancia de haberte escrito por privado antes. Para que pueda enviarte mensajes necesito que me hables tú primero.</value>
   </string>
   <string key="DeadFlee">
-    <value>¡No puedes huir! ¡ESTÁS MUERTO!  Vuelve a la tumba...  por dios.</value>
+    <value>¡No puedes huir! ¡ESTÁS MUERTO!  Vuelve a tu tumba...  y descansa en paz.</value>
   </string>
   <string key="Flee">
     <!-- 0 - Player name -->
@@ -70,7 +70,7 @@
   </string>
   <string key="CountPlayersRemain">
     <!-- 0 - Number of players -->
-    <value>{0} jugadores restantes.</value>
+    <value>{0} luchadores restantes.</value>
   </string>
   <string key="DidntAsk">
     <value>¡Hey, aún no te he preguntado nada!</value>
@@ -97,26 +97,26 @@
   <string key="IdleKill">
     <!-- 0 - player name -->
     <!-- 1 - player role -->
-    <value>{0} no ha votado dos noches seguidas. Las fuerzas del bien han visto esto como un crimen terrible y {0} cae de repente, muerto.\n{1}.</value>
+    <value>{0} no ha votado dos noches seguidas. La población de Sunnydale ha visto esto como un gesto de brujería y le llevan a la hoguera. {0} muere calcinado entre terribles sufrimientos.\n{1}.</value>
   </string>
   <string key="TraitorTurnWolf">
-    <value>¡¡¡Tú, traidor!!! Ahora eres un hombre-lobo...</value>
+    <value>¡¡¡Te has convertido en Ángelus!!! Tras derrotar junto a Buffy a las fuerzas del mal, caísteis presa de vuestros deseos carnales, rompiendo así la maldición que te hacía ser Ángel. Ahora has perdido tu alma y eres un vampiro más...</value>
   </string>
   <string key="ChoiceAccepted">
     <value>Ya has elegido. No hay vuelta atrás.</value>
   </string>
   <string key="BeholderSeer">
     <!-- 0 - seer name -->
-    <value>\nEl vidente es {0}.</value>
+    <value>\nWillow la Bruja es {0}.</value>
   </string>
   <string key="ApprenticeNowSeer">
     <!-- 0 - seer name -->
-    <value>{0} era el vidente. Como su aprendiz, es tu turno de convertirte en vidente.</value>
+    <value>{0} era Willow la Bruja. Como su amante lesbiana, es tu turno de convertirte en Tara la Bruja.</value>
   </string>
   <string key="BeholderNewSeer">
     <!-- 0 - apprentice name -->
     <!-- 1 - seer name -->
-    <value>{0} era un aprendiz, ahora ha llegado su turno de relevar a {1} como el nuevo vidente.</value>
+    <value>{0} era Tara, la aprendiz de Bruja, ahora ha llegado su turno de relevar a {1} como la nueva Bruja.</value>
   </string>
   <string key="SeerSees">
     <!-- 0 - player name -->
@@ -131,7 +131,7 @@
   </string>
   <string key="AskShoot">
     <!-- 0 - bullet count -->
-    <value>¿A quién quieres disparar? {0} bala(s) restantes.</value>
+    <value>¿A quién quieres empalar? {0} estaca(s) restantes.</value>
   </string>
   <string key="AskVisit">
     <value>¿A quién quieres visitar?</value>
@@ -149,10 +149,10 @@
     <value>¿A quién quieres dar caza?</value>
   </string>
   <string key="AskRoleModel">
-    <value>¿Quién quieres que sea tu guía?</value>
+    <value>¿Quién quieres que te encadene en noches de luna llena?</value>
   </string>
   <string key="AskConvert">
-    <value>¿A quién quieres convertir a tu orden?</value>
+    <value>¿A quién quieres vampirizar?</value>
   </string>
   <string key="DiscussWith">
     <!--Leave the leading spaces here please-->
@@ -164,71 +164,71 @@
     <value> y </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>Estás maldito. Por el momento, eres un aldeano, pero si los hombres-lobo te matan, en lugar de morir te convertirás en uno de ellos.</value>
+    <value>Eres Faith la cazavampiros. Tu poder es impresionante, y por ello, las fuerzas del mal planean utilizarte. Si te sorprenden en mitad de la noche, te volverás mala.</value>
   </string>
   <string key="RoleInfoDetective">
-    <value>Eres el detective. Durante el día, puedes elegir un jugador para investigar su rol. Sin embargo, si lo haces, tienes un 40% de probabilidad de que tu rol se revele a los hombres-lobo.</value>
+    <value>Eres Giles, el vigilante. Durante el día, puedes buscar información en tus libros y elegir un jugador para investigarlo. Sin embargo, si lo haces, tienes un 40% de probabilidad de que los vampiros descubran quién eres.</value>
   </string>
   <string key="RoleInfoDrunk">
-    <value>¡Enhorabuena! ¡Eres la borracha del pueblo! (De verdad, todo el mundo lo sabe...).</value>
+    <value>Eres Dawn, la hermanita de Buffy y llave de inmenso poder. Si los vampiros te matan, la ira de Buffy será tan sonada, que en la noche siguiente, los vampiros no saldrán a cazar.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>Eres el Ángel de la Guarda. Cada noche, puedes elegir un jugador para proteger. Sin embargo, si eliges un hombre-lobo existe un 50% de probabilidad de que mueras.</value>
+    <value>Eres Wesley Wyndam-Pryce, protector de la cazadora. Cada noche, puedes elegir un jugador para proteger. Sin embargo, y como eres un poco torpe, si eliges un vampiro existe un 50% de probabilidad de que mueras.</value>
   </string>
   <string key="RoleInfoGunner">
-    <value>Eres el justiciero. Tienes dos balas. Durante el día, puedes elegir disparar a otro jugador. Todo el mundo oirá los disparos y sabrá que eres el justiciero (y no un hombre-lobo).</value>
+    <value>Eres Riley. Tienes dos flechas de ballesta. Durante el día, puedes elegir ensartar a otro jugador. Todo el mundo se enterará y sabrá que eres Riley, un militar entrenado para matar monstruos.</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>¡Putón! Eres la ramera. Durante la noche puedes visitar a otro jugador y sabrás si es un aldeano (no es un hombre-lobo). Si visitas a un hombre-lobo o a su víctima esa noche, morirás. Por otro lado, si esa noche los hombres-lobo tratan de matarte, no te encontrarán en casa y sobrevivirás.</value>
+    <value>Eres Cordelia Chase, jefa de animadoras del instituto Sunnydale. Durante la noche puedes visitar a otro jugador y acrecentar tu popularidad. Sabrás si es un aldeano, pero si visitas a un vampiro o a su víctima esa noche, morirás. Por otro lado, si esa noche los vampiros tratan de matarte, no te encontrarán en casa y sobrevivirás.</value>
   </string>
   <string key="RoleInfoTraitor">
-    <value>¡Traidor! Por ahora, eres un aldeano, pero una vez el resto de hombre-lobo mueran, te convertirás en uno de ellos. Si la vidente te elige, puede que te identifique como hombre-lobo, o no.</value>
+    <value>¡Eres Ángel, el vampiro maldito con un alma! Luchas junto a Buffy contra las fuerzas del mal, ¡pero ojo! Si consigues sentir un instante de felicidad, perderás tu alma y pasarás a ser Ángelus, convirtiéndote en uno de los malos. Si una Bruja te percibe, sabrá que eres un vampiro, pero no sabrá si tienes alma o no.</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>¡¡ERES UN HOMBRE-LOBO!! (Bien por ti). Cada noche podrás elegir comerte a alguien. MUAJAJAJAJA</value>
+    <value>¡¡ERES UN VAMPIRO!! Cada noche podrás elegir a quién quieres chuparle la sangre. Grr Argh... </value>
   </string>
   <string key="RoleInfoSeer" >
-    <value >Eres la vidente. Cada noche puedes elegir un personaje para percibir su rol.</value>
+    <value >Eres la Bruja Willow. Cada noche puedes elegir un personaje para percibir su esencia mediante un conjuro.</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >Eres un simple aldeano. Estás condenado a pasar tus días labrando el campo.. y ser comido.</value>
+    <value >Eres una cazadora en potencia. Tu deber es defender al inocente como te sea posible. No tienes ningún poder especial, salvo una mística intuición.</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >Eres el veterano. Si consigues ser linchado, ¡ganas inmediatamente!</value>
+    <value >Eres Ben... pero también eres Glory. Como Ben eres un humano mortal y corriente, pero si consigues ser linchado por los ciudadanos de Sunnydale, conseguirás alzarte como Glori, la Diosa del pelo perfecto y las caderas prominentes. De esta forma ganas la partida.</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >¡Eres el niño salvaje! Elige un jugador para que sea tu 'guía'; si muere, te convertirás en hombre-lobo.</value>
+    <value >¡Eres Oz, un hombre-lobo! Elige un jugador para que te vigile en tu jaula cada noche de luna llena; si muere, te escaparás cada noche para matar.</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >Eres el observador. Se te dirá quién es la (verdadera) vidente. Ésta es tu única función.</value>
+    <value >Eres Xander, el mejor amigo de Willow la Bruja. Vuestra unión es tan fuerte que siempre reconocerás a la auténtica Willow.</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
-    <value >Eres el aprendiz de vidente. Si la (verdadera) vidente muere, ocuparás su puesto como vidente.</value>
+    <value >Eres Tara, la amante lesbiana de Willow la Bruja. Si ella muere, sus poderes entrarán en ti y te convertirás en la nueva Bruja.</value>
   </string>
   <string key="RoleInfoCultist" >
-    <value >Eres el cultista. Cada noche puedes elegir a otro jugador para convertirlo en cultista. Si al final de la partida todos los jugadores vivos sois cultistas, ganáis.</value>
+    <value >Eres un vampiro. Cada noche puedes elegir a otro jugador para convertirlo en vampiro. Si al final de la partida todos los jugadores sois vampiros, ganáis.</value>
   </string>
   <string key="RoleInfoCultistHunter" >
-    <value >¡Hay un cultista en el pueblo que está tratando de convertir a todos a su culto! Cada noche, elige un jugador; si es un cultista, ese jugador muere. Si el culto trata de convertirte, el último miembro que se unió al culto muere.</value>
+    <value >¡ERES BUFFY LA CAZAVAMPIROS! Cada noche, sales a cazar monstruos. Si un vampiro trata de convertirte, el vampiro convertido más reciente, muere.</value>
   </string>
   <string key="LynchTime" >
     <!-- 0 - number of seconds -->
     <value>
-      El ocaso se acerca y los aldeanos tratan de decidir a quién lincharán esta tarde... ¡Todo el mundo tiene {0} segundos para votar a partir de ahora!
+      El ocaso se acerca y el miedo inunda los corazones de los habitantes de Sunnydale. En la biblioteca se ha organizado una quema de brujas. ¿A quién vamos a linchar? ¡Todo el mundo tiene {0} segundos para votar a partir de ahora!
     </value>
   </string>
   <string key="DayTime" >
     <!-- 0 - number of seconds -->
-    <value >Ha llegado el día. Tenéis {0} segundos para discutir, hacer vuestras acusaciones y defensas.</value>
+    <value >Amanece y tenéis {0} segundos para discutir, hacer vuestras acusaciones y defensas.</value>
   </string>
   <string key="NightTime" >
     <!-- 0 - number of seconds -->
-    <value >Cae la noche. Todo el mundo se dirige a su cama agotado después de un día tan intenso. Jugadores nocturnos, ¡tenéis {0} segundos para realizar vuestras acciones!</value>
+    <value >Cae la noche. Los humanos duermen y los monstruos salen... ¡Tenéis {0} segundos para realizar vuestras acciones!</value>
   </string>
   <string key="LynchKill" >
     <!-- 0 - player name -->
     <!-- 1 - player role -->
-    <value >Los aldeanos tienen su veredicto, entre tantas dudas y sospechas, {0} ha muerto linchado por el pueblo. {1}.</value>
+    <value >La asociación MOO (Madres Opuestas al Ocultismo) ya tienen su veredicto. ¡La magia debe ser erradicada y {0} ha muerto en la hoguera! {1}.</value>
   </string>
   <string key="LynchTie" >
     <value >Incapaces de tomar una decisión sobre el linchamiento, la multitud vuelve frustrada a pasar la noche en sus casas... [Empate en las votaciones].</value>
@@ -238,135 +238,135 @@
   </string>
   <string key="DetectiveEaten" >
     <!-- 0 - victim name -->
-    <value >Los aldeanos se reúnen por la mañana pero no ven a {0}. Miran toda su casa, hasta encontrárselo, ¡desmembrado junto con una vieja placa clavada en la garganta!. Habéis perdido a vuestro detective.</value>
+    <value >Los ciudadanos de Sunnydale se reúnen por la mañana pero no ven a {0}. Miran toda su casa, hasta encontrárselo degollado. ¡Giles, vuestro vigilante y guia a muerto!</value>
   </string>
   <string key="GuardianEaten" >
     <!-- 0 - victim name -->
-    <value >Llega la mañana y, para la consternación de todos, empalado en lo alto de la iglesia aparece {0}, el Ángel de la Guarda.</value>
+    <value >Llega la mañana y, para la consternación de todos, empalado en lo alto de la iglesia aparece {0}, el Wesley Wyndam-Price, vuestro vigilante y guía.</value>
   </string>
   <string key="GunnerEaten" >
     <!-- 0 - victim name -->
-    <value >Mientras que todo el mundo empieza a salir de sus casas, se encuentran piezas de una escopeta desperdigadas... Más alejado, una de las piernas... a 10 metros un par de dedos... Y por último, flotando en la fuente de la plaza del pueblo, el cuerpo de {0}, atacado por un hombre-lobo. Habéis perdido vuestro justiciero.</value>
+    <value >Cuando todo el mundo despierta, contemplan con pasmo que {0}ha muerto debordado por los vampiros. Habéis perdido a Riley, vueltro militar entranado para el combate.</value>
   </string>
   <string key="SeerEaten" >
     <!-- 0 - victim name -->
-    <value >Los aldeanos se despiertan en la mañana para encontrarse los restos desmembrados de {0}, esparcidos sobre una tabla de ouija y unas cartas de tarot. La vidente ha muerto.</value>
+    <value >Los ciudadanos se despiertan en la mañana para encontrarse los restos desmembrados de {0}, esparcidos sobre una tabla de ouija y unas cartas de tarot. La Bruja Willow ha muerto.</value>
   </string>
   <string key="DrunkEaten" >
     <!-- 0 - victim name -->
-    <value >Todo el mundo se despierta con el olor a madera y alcohol quemado… ¡El bar está ardiendo! Tras apagar las llamas, encuentran los restos de {0}, despedazados... La borracha del pueblo ha sido eliminada. [los hombres-lobo no actúan esta noche].</value>
+    <value >Un grito rompe la quietud del alba. Dawn ha sido atacada por los vampiros esta noche y Buffy clama venganza.  {0} se despide con su último aliento. [Los vampiros no se atreverán a salir esta noche].</value>
   </string>
   <string key="FoolEaten" >
     <!-- 0 - victim name -->
-    <value >Mientras que el sol sale en la aldea, encontráis a  {0} sentado sobre un tablero de ouija, pero con una baraja de.... ¿¿¿cartas de Sakura Cazadora de Cartas??? ¡¡¡QUÉ NECIO!!!</value>
+    <value >Mientras que el sol sale en el valle de Sunnydale, encontráis a  {0}, la madre de Buffy Summers, sentada junto a sus libros de homeopatía. Sus remedios caseros y otras pociones no pudieron salvarla de su ignorancia.</value>
   </string>
   <string key="DefaultEaten" >
     <!-- 0 - victim name -->
     <!-- 1 - victim role -->
-    <value>Al levantarse todo el mundo, un olor terrible inunda la aldea. Siguen el rastro hasta encontrar a {0} descuartizado en la porqueriza, sin cabeza...  ¡ÑAMÑAMÑAM! {1}.</value>
+    <value>Al levantarse todo el mundo, un olor terrible inunda la aldea. Siguen el rastro hasta encontrar a {0} con dos marcas en el cuello y sin una gota de sangre...  Grr Argh... {1}.</value>
   </string>
   <string key="HunterKilledCultist">
     <!-- 0 - victim name -->
-    <value>Un gran hedor viene de la casa de {0}...  los aldeanos la inspeccionan hasta encontrar un cuerpo yaciente frente a un altar oscuro...  ¡Un cultista ha sido asesinado por el cazador!</value>
+    <value>En su salida nocturna, Buffy se topó con {0}, que reveló ser un vampiro. Ahora no es más que un montón de polvo...</value>
   </string>
   <string key="NoAttack" >
-    <value >Los aldeanos se reúnen por la mañana en el centro del pueblo, suspirando de alivio. Parece que esta noche no ha habido ningún ataque.</value>
+    <value >Las fuerzas del bien se reúnen por la mañana en el centro del pueblo, suspirando de alivio. Parece que esta noche no ha habido ningún ataque.</value>
   </string>
   <string key="CursedBitten" >
-    <value >Has sido mordido por los hombres-lobo. ¡Como estabas maldito, te has convertido en uno de ellos!</value>
+    <value >Has sido tentada por las fuerzas del mal y sucumbido. Ahora eres una cazadora oscura, y por las noches cazarás humanos en vez de vampiros.</value>
   </string>
   <string key="WolfTeam">
     <!-- 0 - teammate names -->
-    <value>Tu camada: {0}</value>
+    <value>Tus esbirros: {0}</value>
   </string>
   <string key="CursedBittenToWolves" >
     <!-- 0 - victim name -->
-    <value >¡{0} fue mordido.... pero estaba maldito y se ha convertido en un hombre-lobo más! ¡Felicidades por vuestro nuevo compañero!</value>
+    <value >¡{0} ha sido convertida a la oscuridad y luchará del lado de los vampiros. ¡Felicitad a vuestra nueva aliada Faith por su sabia elección!</value>
   </string>
   <string key="WolvesEatYou" >
-    <value >¡Oh, no! ¡Los hombre-lobo te han comido! ÑAMÑAMÑAM</value>
+    <value >¡Oh, no! ¡Los vampiros te han comido! Grr Argh...</value>
   </string>
   <string key="WolvesEatDrunk" >
     <!-- 0 - victim name -->
-    <value >¡Oh, no! ¡{0} era el borracho! Ahora estáis borrachos y no podréis atacar mañana por la noche.</value>
+    <value >¡Oh, no! ¡{0} era Dawn, la hermana de Buffy! Ahora la cazadora clamará venganza. Lo más prudente será no salir esta noche.</value>
   </string>
   <string key="GuardWolf" >
-    <value >¡Has intentado proteger a un hombre-lobo! Has tenido mala suerte y... te ha comido... :(</value>
+    <value >¡Has intentado proteger a un vampiro! Nunca aprendes Wesley, y ahora es tarde, ya estás muerto. :(</value>
   </string>
   <string key="GuardSaved" >
     <!-- 0 - saved player name -->
-    <value >¡Has salvado la vida de {0}! [los hombres-lobo le atacaron pero sobrevivió gracias a tí]</value>
+    <value >¡Has salvado la vida de {0}! [los vampiros le atacaron pero sobrevivió gracias a tí] ¡Eres un heroe al fin!</value>
   </string>
   <string key="GuardNoAttack" >
     <!-- 0 - player name -->
-    <value >{0} no fue atacado anoche. Básicamente, no has hecho nada.</value>
+    <value >{0} no fue atacado anoche. Básicamente, no has hecho nada... Como siempre.</value>
   </string>
   <string key="GuardEmptyHouse">
     <!-- 0 - player name -->
-    <value>¡Fuiste a proteger a {0}, pero no había nadie en casa! [Estaba visitando a otro jugador].</value>
+    <value>¡Fuiste a proteger a {0}, pero no había nadie en casa! [Quizás fuera Cordy, siempre rehuyendo de ti].</value>
   </string>
   <string key="GuardSavedYou" >
-    <value >¡Tu Ángel de la guarda estuvo velando por ti anoche y luchó contra el atacante que te acechaba! [Fuiste elegido por un atacante (asesino u hombre-lobo), pero te salvaron].</value>
+    <value >¡Tu vigilante estuvo velando por ti anoche y luchó contra el atacante que te acechaba! [Fuiste elegido por un monstruo, pero te salvaron].</value>
   </string>
   <string key="HarlotEaten" >
     <!-- 0 - player name -->
-    <value >La ramera decidió tomarse la noche libre y quedarse en casa... ¡¡Pero que gran error!! ¡{0} ha sido comida por los hombres-lobo! [No actuó esa noche y los hombres-lobo la atacaron].</value>
+    <value >Cordy decidió, como siempre, meterse en un callejón oscuro ella sola, ¡sabiendo que hay vampiros por todas partes! ¡¡Pero que gran error!! ¡{0} ha sido deborada por completo! [No actuó esa noche y los monstruos la atacaron].</value>
   </string>
   <string key="HarlotNotHome" >
     <!-- 0 - player name -->
-    <value >¡Ups!... ¡{0} no estaba en casa!  Te quedaste sin cena... [Estaba visitando a otro jugador].</value>
+    <value >¡Ups!... ¡{0} no estaba en casa!  Te quedaste sin cena... [Estaba visitando a alguien].</value>
   </string>
   <string key="HarlotFuckWolf" >
     <!-- 0 - player name -->
-    <value >Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con un hombre-lobo... Has muerto. [Has visitado a un hombre-lobo].</value>
+    <value >Fuiste a la fiesta de {0} para divertirte un rato, pero tu cita a resultado ser un vampiro... Has muerto. [Has visitado a un vampiro].</value>
   </string>
   <string key="HarlotFuckedWolfPublic" >
     <!-- 0 - player name -->
-    <value >¡{0} se escabulló anoche en la casa equivocada! Se ha encontrado su cuerpo lujurioso clavado en la puerta de la iglesia con varas de hierro… ¡Qué tristeza! :( [Visitó a un hombre-lobo].</value>
+    <value >¡{0} confió en el chico equivocado! Se ha encontrado su cuerpo lujurioso y sin gota de sangre, colgado de un gancho en el techo del Bronce. ¡Qué tristeza! :( [Visitó a un vampiro].</value>
   </string>
   <string key="HarlotFuckedVictimPublic" >
     <!-- 0 - harlot name -->
     <!-- 1 - victim name -->
-    <value >{0} se escabulló anoche en la casa de {1} para pasar un buen rato y liberar el estrés. ¡Desafortunadamente, lo que se encontró fue a un hombre-lobo comiéndose a {1}! ¡El hombre-lobo se giró en un segundo y saltó a su yugular...  {0} ha muerto.</value>
+    <value >{0} se escabulló anoche para ir al Bronce con {1} y liberar estrés. ¡Desafortunadamente, y justo antes de llegar, un vampiro saltó sobre {1} para matarlo. Cordelia en vez de huir, se puso a gritar, y por lo tanto {0} también ha muerto.</value>
   </string>
   <string key="HarlotVisitNonWolf" >
     <!-- 0 - target name -->
-    <value >¡Después de una noche loca de sexo y perversión con {0}, puedes asegurar que no es un hombre-lobo!</value>
+    <value >¡Después de una noche loca de fiesta con {0}, puedes asegurar que no es un vampiro!</value>
   </string>
   <string key="HarlotVisitYou" >
-    <value >En mitad de la noche soñaste que la ramera del pueblo te estaba cabalgando... ¡Pero... al despertarte te diste cuenta de que no fue un sueño! Por desgracia, la noche era oscura y no pudiste ver bien su cara. En cuanto terminasteis, se fue en silencio para dejarte a solas con tus pensamientos... ¡y una buena satisfacción en el cuerpo!. [La ramera te ha visitado].</value>
+    <value >Anoche saliste de fiesta hasta las tantas, y llevabas tal pedo que ligaste con alguien y no recuerdas con quién... [La chica más popular se ha fijado en ti].</value>
   </string>
   <string key="DetectiveCaught" >
     <!-- 0 - detective name -->
-    <value >¡Has pillado a {0} husmeando por ahí! ¡Es el detective!.</value>
+    <value >¡Has pillado a {0} husmeando por ahí! ¡Es el vigilante de la cazavampiros!.</value>
   </string>
   <string key="DetectiveSnoop" >
     <!-- 0 - target name -->
     <!-- 1 - target role -->
-    <value >Tus investigaciones te han mostrado que {0} es {1}.</value>
+    <value >Tus libros, investigaciones y rituales te llevan a la conclusión de que {0} es {1}.</value>
   </string>
   <string key="HarlotShot" >
     <!-- 0 - gunner's name -->
     <!-- 1 - Harlot's name -->
-    <value >Parece que el justiciero pilló la sífilis después de pasar la noche con la ramera. {0} se ha tomado la venganza por su mano y {1} ha muerto. [{0} es el justiciero y ha eliminado a {1}].</value>
+    <value >Parece que Cordy se ha sobrepasado con sus constantes atenciones hacia Riley esta noche. {0} se ha decidido detenerla de una vez por todas, acabando con esta ola de fribolidades que tanto alteran al militar de la Iniciativa. {1} ha sido trasladada a un complejo secreto donde experimentarán con su cuerpo. [{0} es Riley y ha eliminado a {1}].</value>
   </string>
   <string key="DefaultShot" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
-    <value >De repente, el sonido de un disparo inunda el aire. La aldea se gira para ver a {0} de pie sobre el cadáver de {1} con una pistola apuntando aún a su cabeza. {2}. [{0} es el justiciero y ha eliminado a {1}].</value>
+    <value >De repente, el sonido de una explosión en el cementerio les hace acudir a todos de inmediato. Allí encuentran a {0} de pie sobre el cadáver de {1} con una estaca aun clavada en su pecho. {2}. [{0} es Riley y ha matado a {1}].</value>
   </string>
   <string key="WolfWins" >
-    <value >¡El hombre-lobo ha ganado!</value>
+    <value >¡El VAMPIRO ha ganado!</value>
   </string>
   <string key="WolvesWin" >
-    <value >¡Los hombre-lobo han ganado!</value>
+    <value >¡Los VAMPIROS han ganado!</value>
   </string>
   <string key="VillageWins" >
-    <value >¡Los aldeanos han ganado! Todos los hombres-lobo han muerto...</value>
+    <value >¡Buffy y los Scoobies han ganado! Todos los monstruos han sido derrotados y el Apocalipsis detenido...</value>
   </string>
   <string key="TannerWins" >
-    <value >¡Oh no! ¡Habéis linchado al veterano!  De forma estúpida, él gana la partida.</value>
+    <value >¡Oh no! ¡Habéis linchado a Ben, que era también Glori!  De forma estúpida, Glori consigue liberarse de su cuerpo mortal y alzarse así como la Diosa Glorificencia, abrir un portal a su mundo y arrastar el nuestro hasta las profundidades del infierno...</value>
   </string>
   <string key="RemainingPlayersEnd">
     <value>Jugadores restantes, roles, y equipos:</value>
@@ -374,109 +374,109 @@
   <string key="CultistVotedConvert" >
     <!-- 0 - Voter's name -->
     <!-- 1 - target name -->
-    <value >{0} ha votado convertir a {1}.</value>
+    <value >{0} ha votado vampirizar a {1}.</value>
   </string>
   <string key="CultConvertCultHunter">
     <!-- 0 - Yougest Cultist (killed)'s name' -->
     <!-- 1 - CultHunter's name -->
-    <value>{0} fue enviado para hacer tu trabajo sucio y convertir a {1}... sin embargo, ¡era el cazador de cultistas! ¡{0} está muerto!</value>
+    <value>{0} fue enviado para vampirizar a {1}... sin embargo, ¡ERA LA CAZADORA! {0} ahora es solo un montón de polvo...</value>
   </string>
   <string key="CultHunterKilledCultVisit">
     <!-- 0 - Youngest Cultist's name -->
     <!-- 1 - Number of cultists left -->
-    <value>{0} vino a tu casa esta noche para que te unieras a su causa... pero enterraste tu espada en su pecho. Un cultista ha muerto… ¡Quedan {1}!</value>
+    <value>{0} vino a tu casa esta noche para tratar de convertirte en un vampiro... pero enterraste tu estaca en su pecho. Un vampiro ha muerto… ¡Quedan {1}!</value>
   </string>
   <string key="CultConvertYou">
-    <value>¡El culto te ha convertido a su secta!  Ahora eres un cultista. Cada noche tendrás ocasión de convertir a otra persona.</value>
+    <value>¡Los vampiros te han convertido!  Ahora eres uno de ellos. Cada noche tendrás ocasión de vampirizar a otra persona.</value>
   </string>
   <string key="CultTeam">
     <!-- 0 - Number of cultists -->
-    <value>Cultistas: {0}</value>
+    <value>Vampiros: {0}</value>
   </string>
   <string key="CultJoin">
     <!-- 0 - new cultist's name -->
-    <value>¡{0} se ha unido al culto!</value>
+    <value>¡{0} se ha unido a los vampiros!</value>
   </string>
   <string key="CultVisitEmpty">
     <!-- 0 - Newest cultist's name -->
     <!-- 1 - target name -->
-    <value>{0} fue enviado a hacer tu trabajo sucio y convertir a {1}... ¡pero no había nadie en casa!</value>
+    <value>{0} fue enviado a hacer tu trabajo sucio y vampirizar a {1}... ¡pero no había nadie en casa!</value>
   </string>
   <string key="CultWins" >
-    <value >Todos los hombres-lobo han muerto y los únicos aldeanos en pie han sido transformados en cultistas... ¡El culto ha ganado!</value>
+    <value >Todos los demás monstruos y humanos han muerto. Sunnydale pertenece a los vampiros... ¡Los vampiros han ganado!</value>
   </string>
   <string key="HunterVisitDead">
     <!-- 0 - target name -->
-    <value>¡Fuiste a cazar a {0}, pero ya estaba muerto!</value>
+    <value>Fuiste a cazar a {0}, y darle su merecido... ¡Pero ya estaba muerto! Pobre desgraciado, no era tan malo a fin de cuentas...</value>
   </string>
   <string key="HunterFindCultist">
     <!-- 0 - target name -->
-    <value>Vas a la casa de {0}; le encuentras orando frente a un altar a un dios desconocido...  Rápidamente introduces tu espada en su pecho, matándolo en el acto. [{0} era un cultista].</value>
+    <value>Entras a una casa abandonada y encuentras a {0} comiendo pizza en un sofá roñoso y viendo la tv rodeado de ratas... El sitio parece un nido de vampiros.  Rápidamente se incorpora pero tú eras mucho más rápido y fuerte. Sacas tu estaca y la introduces en su pecho, matándolo en el acto. [{0} era un vampiro].</value>
   </string>
   <string key="HunterFailedToFind">
     <!-- 0 - target name -->
-    <value>Vas a casa de {0}, pero no hay ningún cántico misterioso. No es un cultista, por lo que te vuelves a casa.</value>
+    <value>Sospechas de {0} y decides seguirlo para investigar. En un cierto momento, finjes tropezar y le rozas con una cruz. Tu sospechoso no se inmuta, no es un vampiro.</value>
   </string>
   <string key="WildChildToWolves"> 
     <!-- 0 - Werechild's name -->
-    <value>¡El guía de {0} acaba de morir! En un ataque de rabia, ¡se convierte en hombre-Lobo!</value>
+    <value>¡El vigilante de {0} acaba de morir! Ya nadie se asegura de que Oz permanezca enjaulado en noches de luna llena, así que podrá salir a matar cuando quiera. Ahora está del bando del mal y luchas con los vampiros.</value>
   </string>
   <string key="WildChildTransform">
     <!-- 0 - role's name -->
     <!-- 0 - teamate's names -->
-    <value>¡{0} ha muerto! En un ataque de rabia, ¡te has convertido en hombre-Lobo! Tus nuevos compañeros son: {1}</value>
+    <value>¡{0} ha muerto! Ya nada te impide liberar al animal que llevas dentro y unirte a los vampiros. Tus nuevos compañeros de cacería son: {1}</value>
   </string>
   <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
   <string key="Villager">
-    <value>un Aldeano 👱</value>
+    <value>Aspirante a cazavampiros 👱</value>
   </string>
   <string key="Drunk">
-    <value>la Borracha 🍻</value>
+    <value>Dawn Summers 🍻</value>
   </string>
   <string key="Harlot">
-    <value>la Ramera 💋</value>
+    <value>Cordelia Chase (Cordy) 💋</value>
   </string>
   <string key="Seer">
-    <value>la Vidente 👳</value>
+    <value>Willow la Bruja 👳</value>
   </string>
   <string key="Traitor">
-    <value>el Traidor 🖕</value>
+    <value>Ángel el maldito 🖕</value>
   </string>
   <string key="GuardianAngel">
-    <value>el Ángel de la Guarda 👼</value>
+    <value>Wesley Wyndam-Price, el protector 👼</value>
   </string>
   <string key="Detective">
-    <value>el Detective 🕵</value>
+    <value>Giles el vigilante 🕵</value>
   </string>
   <string key="Wolf">
-    <value>un Hombre-lobo 🐺</value>
+    <value>un Vampiro, Grr Argh... 🐺</value>
   </string>
   <string key="Cursed">
-    <value>el Maldito 😾</value>
+    <value>Faith, la cazavampiros oscura 😾</value>
   </string>
   <string key="Gunner">
-    <value>el Justiciero 🔫</value>
+    <value>Riley 🔫</value>
   </string>
   <string key="Tanner">
-    <value>el Veterano 👺</value>
+    <value>Ben-Glory 👺</value>
   </string>
   <string key="Fool">
-    <value>el Necio 🃏</value>
+    <value>Joyce Summers, la madre de Buffy 🃏</value>
   </string>
   <string key="WildChild">
-    <value>el Niño Salvaje 👶</value>
+    <value>Oz, el hombre-lobo 👶</value>
   </string>
   <string key="Beholder">
-    <value>el Observador 👁</value>
+    <value>Xander 👁</value>
   </string>
   <string key="ApprenticeSeer">
-    <value>El aprendiz de Vidente 🙇</value>
+    <value>Tara, la aspirante a Bruja 🙇</value>
   </string>
   <string key="Cultist">
-    <value>un Cultista 👤</value>
+    <value>un Vampiro 👤</value>
   </string>
   <string key="CultistHunter">
-    <value>el Cazador de Cultistas 💂</value>
+    <value>Buffy, la Cazadora de Vampiros 💂</value>
   </string>
 <!-- These are for the player list -->
   <string key="RanAway">
@@ -493,32 +493,32 @@
  </string>
 <!-- New strings 4 MAY 2016-->
   <string key="Mason">
-    <value>un Masón 👷</value>
+    <value>un miembro de El Trío 👷</value>
   </string>
   <string key="RoleInfoMason">
-    <value>Eres un Masón. Si hay algún otro, sabrás quién es; si no, eres un aldeano.</value>
+    <value>Eres un miembro de El Trío. Si hay algún otro, sabrás quién es y seréis como dioses; si no, eres un friki amante de Star Wars y sin amigos en el mundo, pero con una inteligencia superior que harán de ti un repelente total.</value>
   </string>
   <string key="MasonEaten">
     <!-- 0 - dead man's name -->
-    <value>Cuando todo el mundo se levanta, encuentran el cadáver de {0} sepultado bajo un montón de piedras, salpicaduras de sangre por todos lados. ¡Uno de vuestros masones ha muerto!</value>
+    <value>Cuando todo el mundo se levanta, encuentran el cadáver de {0} sepultado bajo un montón de piedras, salpicaduras de sangre por todos lados. ¡Un miembro de El Trío ha muerto!</value>
   </string>
   <string key="MasonTeam">
-    <value>Los masones son: {0}</value>
+    <value>Los miembros de El Trío son: {0}</value>
   </string>
   <!-- new strings May 6 2016-->
   <string key="CultTargetDead">
     <!-- 0 - Youngest cultists name -->
-    <value>El miembro más reciente del culto fue a convertir a {0} a su casa, pero en su lugar encontró la casa destrozada, sangre por todas partes y pelo de hombre-lobo en la entrada...</value>
+    <value>El vampiro más reciente sigió a {0} hasta las profundidades de Sunnydale para tratar de convertirlo. Sin darse cuenta, se estaba adentrando en la guarida de El Maestro...</value>
   </string>
   <string key="GuardBlockedWolf">
     <!-- 0 - target's name -->
-    <value>La manada se dirige a la casa de {0} para darse un festín con su cuerpo, pero se encuentran con una figura alta y oscura armada hasta los dientes. El Ángel de la Guarda os impide la entrada y volvéis a vuestro cubil derrotados.</value>
+    <value>Los vampiros se dirigen a la casa de {0} para destriparlo y darse un festín con su sangre, pero antes de llegar a entrar, se encuentran a Wesley armado con una cruz que sostiene en una mano en alto y una estaca temblorosa en la otra... Sus amenazas de muerte no impresionan a ningún vampiro, pero aun así deciden retirarse.</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
     <!-- 0 - newest  -->
     <!-- 1 - target's name -->
-    <value>Enviásteis a {0} para intentar convertir a {1}, sin embargo, su voluntad era demasiado fuerte y fue incapaz de que se uniera a vuestra causa :(</value>
+    <value>Enviásteis a {0} para intentar vampirizar a {1}, sin embargo, su voluntad era demasiado fuerte y fue imposible transformarlo :(</value>
   </string>
   <!-- new string May 12 2016-->
   <string key="NameExists">
@@ -528,7 +528,7 @@
   </string>
   <string key="HarlotDiscoverCult">
     <!-- 0 - target's name -->
-    <value>Te escabulliste anoche a la casa de {0} para pasar un buen rato... pero cuando te fuiste notaste algo extraño: un extraño altar escondido en un cuarto, emitiendo un extraño brillo… [{0} es un cultista].</value>
+    <value>Anoche estuviste bailando con {0} en el Bronce, pero cuando te acercaste a la barra a tomar algo, notaste algo muy extraño... ¡Tu nuevo amigo no se reflejaba en los espejos! [{0} es un vampiro].</value>
   </string>
   <!-- new string May 13 2016-->
   <string key="Was">
@@ -536,12 +536,12 @@
   </string>
   <string key="GenericDeathNoReveal">
     <!-- 0 - Dead's name -->
-    <value>Todo el mundo se despierta a la mañana siguiente y se percata de que {0} no aparece por ningún sitio... Al buscar en su casa, se encuentran sus restos...</value>
-    <value>Mientras los aldeanos se reúnen y el sol asciende en el cielo, se encuentran los restos de {0}, que, de alguna forma, murió anoche...</value>
+    <value>Todo el mundo se despierta para descubrir el cuerpo sin vida de {0}. El mal nunca descansa...</value>
+    <value>Mientras los habitantes de Sunnydale se reúnen, se dan cuenta de que {0} no aparece... De alguna forma, murió anoche...</value>
   </string>
   <string key="MasonConverted">
      <!-- 0 - mason's name -->
-    <value>¡Qué raro…! {0} no apareció esta mañana en la reunión de masones... O.o</value>
+    <value>¡Qué raro…! {0} no apareció esta madrugada en la reunión de vampiros... O.o</value>
   </string>
   <!-- new string May 16 2016-->
   <string key="FleeDisabled">
@@ -614,164 +614,164 @@
     <value>Idioma cambiado a {0}.</value>
   </string>
   <string key="NoSeer">
-	<value>¡No hay vidente!</value>
+	<value>¡Willow la Bruja no está!</value>
   </string>
   <string key="TimesUp">
 	<value>¡Se acabó el tiempo!</value>
   </string>
   <!-- new strings june 10 2016 -->
   <string key="RoleInfoCupid">
-    <value>Eres Cupido. Enviado a la tierra con solo tu ropa interior, un arco y dos flechas, elige dos jugadores que se amarán por la eternidad. Si uno muere, el otro morirá de pena</value>
+    <value>Eres un Demonio Vengador. Con tu hechizo, encantarás a dos personajes para que se amen incondicionalmente. Y si uno muere, el otro le seguirá hasta el fin de la eternidad...</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>Eres un Doppelgänger (el Doble). La leyenda dice que tus ancestros eran metamorfos, y podían escoger cualquier forma que quisieran. Tú has heredado algunas de sus capacidades. Escoge a un jugador, cuando muera, te quedarás con su rol.</value>
+    <value>Eres Amy la Bruja, o mejor dicho, Amy la rata. En la actualidad vives en una jaula y comes queso con regularidad, sin embargo, posees un inmenso poder, del cual harás uso para conseguir volver a ser humana. Selecciona un personaje y tras su muerte, tu alma se transferirá a su cuerpo, dándote a ti todo su poder.</value>
   </string>
   <string key="RoleInfoHunter">
-    <value>Eres el cazador de la ciudad. No duermes bien, y nunca deberías irte a la cama sin tu rifle. Si mueres, puedes escoger a alguien para matar. Si te comen, tienes una oportunidad de matar a un hombre-lobo, pero no podrás escoger a quien.</value>
+    <value>Eres Spike, un vampiro con alma que lucha contra el mal. Cada noche sales a patrullar armado de tus colmillos, defendiendo a los justos y acechando a otras bestias. Si mueres, el chip que llevas implantado explotará, matando a quien esté cerca de ti. Si un vampiro más fuerte que tú te ataca, el collar del campeón que llevas contigo, te desintégrará a ti y a otro vampiro, pero no podrás escoger a quien.</value>
   </string>
   <string key="RoleInfoSerialKiller">
-    <value>Eres el asesino en serie. Hace poco que escapaste del manicomio local, tu objetivo es que todos los demás mueran. Cada noche, puedes añadir un cuerpo a tu colección.</value>
+    <value>Eres El Primer Mal, anterior a los hombres y a los demonios. Tu objetivo es sembrar la confusión y el caos entre toda criatura que camine sobre la faz de la tierra, haciendo que se maten entre ellos, y usando los cuerpos de sus seres queridos para atrapar más almas en tu red del mal.</value>
   </string>
   <string key="CupidChosen">
-    <value>Has sido golpeado por el amor. El recuerdo de {0} nunca desaparecerá de tu corazón. Si uno de los dos muere, el otro morirá de pena. Si estando vivos los dos, uno de los dos gana, el otro ganará también.</value>
-	<value>¡Las flechas de Cupido te han alcanzado! ¡Estás locamente enamorado(a) de {0}!  Si muere, tú también. Si estáis vivos y uno de los dos gana, ¡los dos ganaréis!</value>
+    <value>Has caído presa de un conjuro de amor. Ahora, {0} y tú, caminaréis juntos de la mano hasta el fin de vuestros días. Y si todos los demás mueren, no os importará mientras os tengáis el uno al otro...</value>
+	<value>¡El conjuro de amor de Anya, el Demonio Vengador, te han alcanzado! ¡Estás locamente enamorado(a) de {0}!  Si muere, tú también. Si estáis vivos y uno de los dos gana, ¡los dos ganaréis!</value>
   </string>
   <string key="HunterLynchedChoice">
-    <value>¡Los aldeanos han decidido colgarte! Esta es tu última oportunidad, ¡escoge a quien disparar mientras caes!</value>
+    <value>¡Los ciudadanos de Sunnydale han decidido no fiarse más de ti! A fin de cuentas, solo eres otro vampiro más... Esta es tu última oportunidad, ¡escoge a quien morder para que muera contigo!</value>
   </string>
   <string key="HunterNoChoiceLynched">
-    <value>{0} trata de alcanzar su pistola mientras el nudo se va apretando, pero no puede cogerla a tiempo, y muere con un sonoro chasquido del cuello...</value>
+    <value>{0} trata de sacar sus colmillos mientras la multitu le apresa, pero no lo consigue, y muere expuesto a la luz del ardiente sol de Sunnydale...</value>
   </string>
   <string key="HunterSkipChoiceLynched">
-    <value>{0} alcanza su pistola, mira a la multitud..... y no puede escoger a quien disparar. Muere aceptando su destino...</value>
+    <value>{0} saca los colmillos, mira a la multitud... y no puede escoger a quien morder. Muere aceptando su destino...</value>
   </string>
   <string key="HunterKilledFinalLynched">
     <!-- 0 - hunter's name -->
     <!-- 1 - target's name -->
     <!-- 2 - target's role -->
-    <value>Mientras el nudo se aprieta alrededor del cuello de {0}, saca la pistola, la carga, apunta, y aprieta el gatillo, ¡disparando a {1} mientras el suelo se acerca! {1} cae, muere. {2}</value>
+    <value>Mientras los ciudadanos de Sunnydale empujan a Spike para exponerlo a la luz del sol, {0} saca sus colmillos, agarra a un inocente, y muerde hasta dejarlo sin sangre. {1} cae muerto. {2}</value>
   </string>
   <string key="HunterShotChoice">
-    <value>¡Has sido asesinado!  En tus últimos momentos, puedes escoger a quien disparar... ¡Hazlo rápido!</value>
+    <value>¡Has sido asesinado!  En tus últimos momentos, puedes escoger a quien matar... ¡Hazlo rápido!</value>
   </string>
   <string key="HunterNoChoiceShot">
     <!-- 0 - target's name -->
-    <value>El ataque a {0} fue tan fuerte que no pudo alcanzar su arma, mientras yacía en un charco de sangre.....</value>
+    <value>El ataque a {0} fue tan fuerte que no pudo defenderse. Ahora es solo un montón de polvo...</value>
   </string>
   <string key="HunterSkipChoiceShot">
     <!-- 0 - hunter's name -->
-    <value>Mientras {0} yace ahí, luchando por su último aliento, no puede decidir a quien disparar. Muere aceptando su destino...</value>
+    <value>Mientras {0} yace ahí, luchando por su último aliento, no puede decidir a quien matar. Muere aceptando su destino...</value>
   </string>
   <string key="HunterKilledFinalShot">
     <!-- 0 - hunter -->
     <!-- 1 - target's name -->
     <!-- 2 - target's role -->
-    <value>Mientras la bala perfora a {0}, cae al suelo.... pero no sin antes agarrar su pistola, y dispara a {1}, que se lleva una bala entre los ojos. {2}</value>
+    <value>Mientras la estaca perfora el cuerpo de {0}, cae al suelo.... pero no sin antes agarrar su ballesta, y dispara a {1}, que se lleva una flecha entre los ojos. {2}</value>
   </string>
   <string key="HunterShotWolfMulti">
     <!-- 0 - target's name -->
-    <value>los hombres-lobo intentaron atacar al cazador anoche, ¡pero el cazador pudo alcanzar con su rifle a uno mientras moría! {0} está muerto [Era hombre-lobo]</value>
+    <value>los vampiros intentaron atacar a Spike anoche, ¡pero el vampiro con alma pudo alcanzar con su estaca a uno mientras moría! {0} está muerto [Era vampiro]</value>
   </string>
   <string key="HunterShotWolf">
     <!-- 0 - target's name -->
-    <value>{0} intentó atacar al cazador anoche, ¡pero el cazador pudo alcanzarlo con su rifle! [Era hombre-lobo]</value>
+    <value>{0} intentó atacar a Spike anoche, ¡pero el vampiro con alma pudo alcanzarlo con su estaca! [Era vampiro]</value>
   </string>
   <string key="SerialKillerKilledWolf">
-    <value>Los hombres-lobo intentaron tener un buen aperitivo nocturno, pero en vez de eso, fueron recibidos por un asesino en serie! ¡{0} fue asesinado en la pelea! [Un hombre-lobo ha muerto]</value>
+    <value>Los vampiros intentaron tener un buen aperitivo nocturno, pero en vez de eso, fueron recibidos por El Primero! ¡{0} fue destruido! [Un vampiro ha muerto]</value>
   </string>
   <string key="DefaultKilled">
     <!-- 0 - target's name -->
     <!-- 1 - target's role -->
-    <value>Parecía una noche tranquila para {0}, pero se equivocaba. Los aldeanos se reunieron por la mañana y se lo encontraron cortado en pedazos. Curiosamente faltaba el hígado y un riñón...  ¡El asesino en serie ha atacado de nuevo! {1}.</value>
+    <value>A la mañana siguiente, los amigos de la cazadora se encuentran con {0}, pero el Primer Mal se revela a través de su voz. A tomado su cuerpo y su vida esta noche para darse un festín en el infierno, y además, transmitiros este mensaje: "Desde abajo, te debora". {1}.</value>
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>Quisiste incorporar el cuerpo de {0} para tu colección, ¡Pero el Ángel de la Guarda lo protegió! No ha habido muertes esta noche...</value>
+    <value>Sin duda {0} hubiera sido una pieza clave para tu plan de destrucción, sin embargo ese estúpido vigilante... Wesley Wyndam-Pryce... Siempre metiendo la nariz donde no le llaman, lanzó un conjuro de protección y nadie ha muerto esta noche...</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Cultist's name -->
     <!-- 1 - target's name -->
-    <value>El culto envía a {0} para intentar convertir a {1}, pero en vez de eso, suena un disparo y ¡el cuerpo de {0} sale volando por la ventana! {0} ha muerto...</value>
+    <value>Los vampiros envían a su esbirro más novato, {0} para intentar vampirizar a {1}, pero Spike lo detiene sin apenas inmutarse. ¡El cuerpo de {0} es reducido a cenizas! {0} ha muerto...</value>
   </string>
   <string key="CultConvertSerialKiller">
     <!-- 0 - Youngest Cultist's name -->
     <!-- 1 - target's name -->
-    <value>El culto envía a {0} para intentar convertir a {1}, pero en vez de eso, el cuerpo de {0} sale volando por la ventana, ¡con cuchillos clavados por todo el cuerpo! ¡QUÉ PSICÓPATA! {0} ha muerto....</value>
-	<value>{0} se cuela en casa de {1}, abre la puerta, ¡¡y es recibido por un loco con un cuchillo!! {1} hunde el cuchillo en cada uno delos órgnanos internos de {0} por orden alfabético, ¡carcajeando todo el tiempo! {0} está muerto</value>
+    <value>Los vampiros envían a su esbirro más novato, {0} para intentar vampirizar a {1}, pero en vez de eso, el cuerpo de {0} se retrae sobre si mismo hasta desaparecer. El poder de El Primero es incuestionable... {0} ha muerto...</value>
+	<value>{0} persigue a través de un callejón oscuro a {1}, quien parece ser una ovejita descarriada más, a punto de ser deborada por un monstruo... Nada más lejos de la realidad, {1} resulta ser el Primer Mal y {0} ha caído en su trampa. {0} está muerto</value>
   </string>
   <string key="GuardKiller">
-    <value>Intentaste proteger al asesino, ¡pero él te acuchilló 98 veces! Me parece que has muerto...</value>
+    <value>Intentaste proteger a tu amigo sin saber que este llacía muerto a pocos metros de ti. A quien has intentado porteger es al Mal Primigenio haciéndose pasar por él. Ahora tú también eres pasto de los gusanos...</value>
   </string>
   <string key="HarlotFuckKiller">
     <!-- 0 - target's name -->
-    <value>Te cuelas en la casa de {0} y empiezas a tener un poco de diversión. Todo va estupendamente hasta que... {0} saca un cuchillo y ¡empieza a acuchillarte 98 veces riendo como un loco-maníaco! Has muerto...</value>
+    <value>Siempre te sentiste atraída por Ángel, el vampiro con alma. Y esta noche, que parece tan receptivo a tus encantos, decides acompañarlo a su paseo nocturno por el cementerio... Inocente de ti, caíste en la trampa, pues no era Ángel sino El Primero tomando su apariencia, por lo que {0} te ha matado... {0} era el Mal Primigenio.</value>
   </string>
   <string key="HarlotFuckKillerPublic">
-    <value>{0} intentó divertirse esta noche pero se topó con un asesino en serie algo loco... {0} está muerto.</value>
+    <value>{0} intentó divertirse esta noche pero se topó con El Primero... {0} está muerto.</value>
   </string>
   <string key="DGToMason">
     <!-- 0 - target's name -->
-    <value>El Doppelgänger (el Doble) {0} se ha convertido en masón, ¡igual que tú!</value>
+    <value>Amy la rata se ha transformado. {0} se ha convertido en un miembro de El Trío, ¡igual que tú!</value>
   </string>
   <string key="DGTransformToMason">
     <!-- 0 - dead mason's name -->
     <!-- 1 - mason collegues's name -->
-    <value>{0} ha muerto, y tú te conviertes en masón. Tus compañeros de equipo (si los hay) son: {1}</value>
+    <value>{0} ha muerto, y tú te conviertes en un miembro de El Trío. Tus amigos frikis (si los hay) son: {1}</value>
   </string>
   <string key="DGToCult">
     <!-- 0 - new cultist's name -->
-    <value>El Doppelgänger (doble) {0} se ha convertido en cultista, ¡igual que tú!</value>
+    <value>Amy la rata se ha transformado. {0} se ha convertido en vampiro, ¡igual que tú!</value>
   </string>
   <string key="DGTransformToCult">
     <!-- 0 - role's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} ha muerto, y tú te conviertes en cultista. Tus compañeros de equipo (si los hay) son: {1}</value>
+    <value>{0} ha muerto, y tú te transformas en vampiro. Tus compañeros de equipo (si los hay) son: {1}</value>
   </string>
   <string key="DGToWolf">
     <!-- 0 - DG's name -->
-    <value>El Doppelgänger (doble) {0} se ha convertido en hombre-lobo, ¡igual que tú!</value>
+    <value>Amy la rata se ha transformado. {0} se ha convertido en vampiro, ¡igual que tú!</value>
   </string>
   <string key="DGTransformToWolf">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} ha muerto, por lo que, ¡te conviertes en hombre-lobo!. Tus compañeros de equipo (si los hay) son: {1}</value>
+    <value>{0} ha muerto, por lo que, ¡te conviertes en vampiro!. Tus compañeros de equipo (si los hay) son: {1}</value>
   </string>
   <string key="SerialKillerWins" isgif="true">
-    <value>¡La última persona en pié es el asesino en serie! ¡Ha ganado!</value>
+    <value>¡La tierra se abrió y os tragó a todos. El Primer Mal se alza sobre vuestras tumbas! ¡No conseguisteis detener el Apocalipsis! El Primero os ha vencido...</value>
   </string>
   <string key="AskKill">
-    <value>¿A quién quieres matar esta noche?</value>
+    <value>¿A quién quieres llevarte esta noche al infierno?</value>
   </string>
   <string key="LoverDied">
     <!-- 0 - dead's name -->
     <!-- 1 - lover's name -->
     <!-- 2 - roles -->
-    <value>Con el último aliento de {0}, su amado(a), {1}, se derrumba y echa a llorar desconsoladamente. En un golpe de locura, no puede soportar su muerte, y se dispara con la primera pistola que encuentra. {2}</value>
+    <value>Con el último aliento de {0}, su amado(a), {1}, cae también muerto. El conjuro de amor que los unía no los dejará separarse nunca... {2}</value>
   </string>
   <string key="AskDoppelganger">
-    <value>¿En quién te quieres convertir si muere?</value>
+    <value>¿En qué cuerpo quieres entrar después de su muerte?</value>
   </string>
   <string key="AskCupid1">
-    <value>¿A quién quieres convertir en amantes?\nEscoge al primer jugador:</value>
+    <value>¿A quién quieres maldecir con tu conjuro de amor eterno?\nEscoge al primer jugador:</value>
   </string>
   <string key="AskCupid2">
-    <value>¿A quién quieres convertir en amantes?\nEscoge al segundo jugador:</value>
+    <value>¿A quién quieres maldecir con tu conjuro de amor eterno?\nEscoge al segundo jugador:</value>
   </string>
   <string key="Hunter">
-    <value>el Cazador 🎯</value>
+    <value>Spike 🎯</value>
   </string>
   <string key="Cupid">
-    <value>cupido 🏹</value>
+    <value>Anya, el Demonio Vengador 🏹</value>
   </string>
   <string key="SerialKiller">
-    <value>el Asesino en serie 🔪</value>
+    <value>El Primero 🔪</value>
   </string>
   <string key="Doppelgänger">
-    <value>el Doppelgänger (doble) 🎭</value>
+    <value>Amy la rata 🎭</value>
   </string>
   <string key="NewWCRoleModel">
     <!-- 0 - target's name -->
-    <value>Eres el niño salvaje. Tú modelo a seguir es {0}</value>
+    <value>Eres Oz, el hombre-lobo. Tú vigilante en días de luna llena es {0}</value>
   </string>
   <string key="LoversWin">
     <value>¡Triunfa el amor verdadero! ¡Los amantes han ganado!</value>
@@ -779,10 +779,10 @@
   <string key="HunterKilledVisiter">
     <!-- 0 - target's name -->
     <!-- 1 - role -->
-    <value>En medio de la plaza de la ciudad, encuentran el cuerpo de {0}, con múltiples disparos en el cuerpo. ¡Parece ser que intentó acercarse sigilosamente al Cazador! {1}</value>
+    <value>Anoche {0} intentó acercarse a Spike por la espalda. Éstes se convirtió en su cena... {1}</value>
   </string>
   <string key="CultAttempt">
-    <value>Una figura encapuchada trató de convertirte a su culto, pero tu fé es demasiado fuerte y has resistido a sus oraciones y convicciones.</value>
+    <value>Anoche, mientras volvías a casa, sentiste la presencia de alguien acechándote en la oscuridad. Probablemente fuera un vampiro, pero afortunadamente tu instinto te hizo reaccionar con rapidez para ponerte a salvo.</value>
   </string>
   <string key="AlreadyOnWaitList">
     <!-- 0 - target's name -->
@@ -799,15 +799,15 @@
   <string key="SerialKillerWinsOverpower">
     <!-- 0 - SK's name -->
     <!-- 1 - target's name -->
-    <value>Llega la mañana, y los dos aldeanos que quedan salen a la plaza. {0} mira a {1}, con una gran sonrisa en su cara, saca un cuchillo, y acaba con {1}.</value>
+    <value>Llega la mañana, y solo dos personas salen a la plaza. {0} mira a {1}, y con una gran sonrisa en su cara, se alza ante {1} como el Primer Mal, acabando con su vida.</value>
   </string>
   <string key="NoWinner" isgif="true">
-    <value>Todos han muerto...  solo quedan cadáveres.  Nadie gana, excepto los buitres...</value>
+    <value>Todos han muerto y Sunnydale se convierte en un gran agujero humeante.  Nadie ha conseguido detener el Apocalipsis...</value>
   </string>
   <string key="SKHunterEnd">
     <!-- 0 - SK's name -->
     <!-- 1 - Hunter's name -->
-    <value>Cuando sale el sol, {0} y {1} caminan hacia el pueblo. {0} saca su cuchillo, y salta sobre {1}. {1} saca una pistola y dispara en la cara de {0} mientras {0} se lanza, y clava el cuchillo profundamente en {1}. Ambos mueren, el pueblo está vacío, no hay ganador...</value>
+    <value>Cuando sale el sol, {0} y {1} son los únicos que quedan con vida. El Primero está a punto de alzarse y taer el Apocalipsis al mundo. {0} se prepara para matar a {1}, el vampiro con alma. Pero el campeón y guerrero del bien, Spike, se ha guardado un as en la manga. El colgante que lleva {1} empieza a producir un resplandor que quema y destroza todo a su alrededor. Spike muere, pero se lleva al Mal Primigenio con él. Todo lo que queda de Sunnydale es un agujero humeante y nadie sobrevive.</value>
   </string>
    <string key="RoleModelChosen">
     <!-- 0 - target's name -->
@@ -826,85 +826,85 @@
   </string>
   <!--New strings 7th of July-->
   <string key="AboutVG">
-    <value>Tu rol es simple - intenta sobrevivir. Cada día tendrás la oportunidad de linchar al los hombres-lobo.</value>
+    <value>Tu deber es simple - intenta sobrevivir. Cada día tendrás la oportunidad de linchar al los vamiros valiéndote únicamente de tu intuición de cazadora en potencia.</value>
   </string>
   <string key="AboutSeer">
-    <value>Eres la vidente. En este rol, cada noche, deberás elegir a un jugador, y se revelará su rol. Admite tu rol sabiamente: Si revelas que eres la vidente, ¡los hombre-lobo intentarán matarte!</value>
+    <value>Eres Willow y como la Bruja que eres, cada noche, deberás lanzar un hechizo de percepción para conocer la auténtica esencia de los otros jugadores. Ten cuidado si te descubres, ¡los monstruos intentarán matarte!</value>
   </string>
   <string key="AboutWw">
-    <value>¡Te vas a divertir! Cada día, podrás engañar a los demás jugadores. Y por las noches, ¡elegirás a un jugador que matar! Nota: si atacas a la borracha, te intoicarás, y no podrás atacar la siguiente noche, ¡ya que estarás durmiendo la mona! Si aracas al maldito, ¡Se convertirá en lobo, como tú! ¡Hurra, amigos!</value>
+    <value>¡Eres un malvado Vampiro¡ Y por las noches, ¡elegirás a una víctima a la que chuparle la sangre! Sobrevive matando a los inocentes pero cuidado con Down Summers, la hermana de la cazadora. Si la matas, al día siguiente de su muerte, Buffy estará tan furiosa con todos los vampiros que no os atreveréis a salir esa noche. Por el contrario, si intentas atacar a la otra cazadora, Faith, la del oscuro corazón, pasará a convertirse en una de los vuestros. ¡Hurra!</value>
   </string>
   <string key="AboutHarlot">
-    <value>Como la ramera (menuda zorra...) tendrás la oportunidad de "visitar" a otro jugador cada noche. Si no es hombre-lobo, lo sabrás (¡Porque seguirás viva!). Si visitas un hombre-lobo, morirás. Si visitas al elegido por el lobo, a ti también te matará. De todas formas, si te vas de visita, y los hombres-lobo te eligen, sobrevivirás. [No estabas en casa]</value>
+    <value>Como chica más popular y jefa de animadoras del instituto Sunnydale, tendrás ocasión de salir al Bronce de fiesta con otros jugadores a conocerlos un poco mejor. Si topas con un vampiro, morirás. Si los vampiros tratan de ir a por ti mientras duermes, sobrevivirás. [No estabas en casa]</value>
   </string>
   <string key="AboutDrunk">
-    <value>¡Maldita borracha! Como la borracha del pueblo, aún eres un aldeano. Pero si los hombres-lobo deciden comerte, no podrán atacar la noche siguiente, ya que estarán borrachos por tu altísima tasa de alcohol en sangre.</value>
+    <value>Eres la pequeña Down Summers, hermana de Buffy la cazavampiros. Si los vampiros deciden comerte, no podrán atacar la noche siguiente, ya que estarán atemorizados por sufrir las represalias de tu hermana.</value>
   </string>
   <string key="AboutCursed">
-    <value>Como el maldito, eres un aldeano normal... hasta que los hombres-lobo te muerdan. Cuando lo hayan hecho, ¡tú también te convertirás en hombre-lobo! Libre para cazar todas las noches.... XD</value>
+    <value>Como cazadora oscura que eres, estás predestinada a ser inducida por el mal a cambiarte de bando. Si los vampiros intentan convertirte lo conseguirás, y pasarás a ser parte de los suyos. Eres libre para cazar todas las noches, pero a los inocentes... XD</value>
   </string>
   <string key="AboutTraitor">
-    <value>Eres un maldito traidor. Si sobrevives lo suficiente, cuando los hombres-lobo hayan muerto, te convertirás en uno, ¡listo para matar a tus antiguos aliados cada noche!</value>
+    <value>Eres Ángel, el vampiro maldito. Luchas del lado del bien, pero si consigues junto a tus amigos derrotar a todas las fuerzas vampíricas, celebrarás junto a Buffy la victoria y romperás así la maldición que encierra al demonio que eres en el fondo, Ángelus. ¡Ahora estarás listo para matar a tus antiguos aliados cada noche!</value>
   </string>
   <string key="AboutGA">
-    <value>¡Eres el ángel de la guarda! Cada noche, elegirás un jugador para proteger. Ten cuidado, si eliges proteger a un hombre-lobo, tienes un 50% de probabilidades de que mueras.</value>
+    <value>Eres Wesley Wyndam-Pryce, vigilante y protector de cazadoras. Cada noche, saldrás a proteger a alguien, pero ten cuidado Wesley que nos conocemos, y podrías meter la pata protegiendo a algún villano. Si eso ocurriera, tienes un 50% de probabilidades de morir.</value>
   </string>
   <string key="AboutDetective">
-    <value>Viejo sabueso.. Cada día, tendrás la oportunidad de investigar a otro jugador. Pero ten cuidado, ¡ya que existe un 40% de probabilidades de que los hombres-lobo te descubran!</value>
+    <value>Eres Giles, el bibliotecario y vigilante de la cazadora. Cada noche investigarás en tus libros diferentes conjuros para percibir cual es la esencia de los otros jugadores. Pero ten cuidado, ¡ya que existe un 40% de probabilidades de que las fuerzas místicas te perciban a ti y te descubran!</value>
   </string>
   <string key="AboutGunner">
-    <value>¿Somos de gatillo fácil, eh? Como el justiciero, tienes 2 balas de plata al principio del juego. Cada día tendrás la oportunidad de disparar a otro jugador. Cuando lo hagas, ¡todos sabrán que eres el justiciero! ¡Elige cn cuidado, sólo tienes 2 balas!</value>
+    <value>¿Somos de gatillo fácil, eh? Como militar de la Iniciativa, tienes 2 flechas en tu ballesta al principio del juego. Cada día tendrás la oportunidad de disparar a otro jugador. Cuando lo hagas, ¡todos sabrán que eres Riley! ¡Elige cn cuidado, sólo tienes 2 flechas!</value>
   </string>
   <string key="AboutTanner">
-    <value>El objetivo del veterano es sencillo: Haz que te linchen. Si linchan al veterano, gana la partida, punto. Todos los demás pierden.</value>
+    <value>El objetivo de Glory es sencillo: Haz que linchen a Ben. Tú eres Glory y también eres Ben. Ben es un humano corriente y tu una Diosa Ancestral atrapada en su cuerpo. Si consigues que Ben sea linchao por todo el pueblo, conseguiras escapar a tu mundo, desgarrando esta realidad y trayendo el infierno a la tierra... ¡Y todo sin siquiera despeinarte!</value>
   </string>
   <string key="AboutFool">
-    <value>Al necio se le dice que es la vidente.... Cuando elige a alguien para adivinar su rol, se le dirá uno al azar.</value>
+    <value>Joyce Summers se cree que sabe mucho porque es la madre de la cazadora, pero en realidad se equivoca... No es consciente de que existe la magia y por lo tanto, cree todo lo que le dicen sus ojos... Así sean las intenciones de otros personajes en los que se fije...</value>
   </string>
   <string key="AboutCult">
-    <value>Como cultista, tu objetivo es convertir a todos los demás jugadores (excepto a los hombres-lobo) a tu culto. Si al final de la partida, todos los jugadores vivos son cultistas - el culto gana.</value>
+    <value>Como vampiro, tu objetivo es convertir a todos los demás jugadores (excepto a otros vampiros)al lado de los no-muertos. Si al final de la partida, todos sois vampiros, ganais.</value>
   </string>
   <string key="AboutCH">
-    <value>Tu trabajo es acabar con el Culto. Si un cultista te ataca, su miembro más reciente morirá. Cada noche escogerás a que jugador vas a "cazar" - si es cultista, morirá.</value>
+    <value>Eres Buffy Summers, la cazavampiros, y tu trabajo es acabar con ellos e impedir el Apocalipsis. Si uno de ellos te ataca, su miembro más reciente morirá. Cada noche escogerás a que jugador vas a "cazar" - si es un vampiro joven, morirá. Si te topas con un vampiro ancestral como es el Maestro, tú serás la víctima.</value>
   </string>
   <string key="AboutWC">
-    <value>Al principio del juego, elegirás a alguien para ser tu "modelo a seguir". Si lo matán, te convertirás en hombre-lobo.</value>
+    <value>Al principio del juego, elegirás a alguien para que te vigile en noches de luna llena. Si lo matán, te convertirás en hombre-lobo y te unirás al lado del mal junto a los vampiros.</value>
   </string>
   <string key="AboutAppS">
-    <value>Por ahora eres un aldeano corriente. Pero, si muere la vidente, te convertirás en la nueva vidente.</value>
+    <value>Por ahora eres solo Tara, la amante lesbiana de Willow la Bruja. Pero, si ella muere, tú tendrás que reemplazarla.</value>
   </string>
   <string key="AboutBH">
-    <value>Se te comunicará quien es la vidente (la de verdad, no el necio)</value>
+    <value>Como mejor amigo que eres de Willow, siempre la reconocerás y no la confundirás con nadie. Sabes que su poder es único y verdadero.</value>
   </string>
   <string key="AboutMason">
-    <value>El trabajo del masón es simple - se conocen entre ellos. Por lo demás, son simples aldeanos.</value>
+    <value>Ser un miembro de El Trío es fácil y divertido - Andrew, Jonathan y Warren se conocen entre ellos. Así que pueden confavular contra el resto de Sunnydale si les apetece porque son super poderosos... Casi como dioses... Pero sin ninguna habilidad especial.</value>
   </string>
   <string key="AboutDG">
     <value>
-      Tus ancestros tenían la habilidad de transformarse en otros... aunque no tengas las mismas habilidades, puedes escoger a alguien al principio de la partida. Si ese jugador muere, te convertirás en lo que era.
-      Nota: Si el jugador se convierte al culto, obtendrás su rol original. Para los demás se aplicarán las reglas normales: si era el niño salvaje y su modelo a seguir está muerto, te convertirás en hombre-lobo. Si no, heredarás su modelo a seguir.
-      El culto no puede convertir al Doppelgänger (el doble) (pero sí después de cambiar de rol). Cuidado: El Doppelgängerno podrá ganar si no ha cambiado de rol. Si al finalizar el juego, el Doppelgänger sigue siendo el doble, pierde (excepción: amantes)
+      Procedes de un largo linade de brujas, capaces de meterse en los cuerpos de otras personas para escapar de "situaciones difíciles"... Puedes escoger a alguien al principio de la partida, y si ese jugador muere, te convertirás en lo que era.
+      Nota: Si el jugador se convierte en vampiro, obtendrás su rol original. Para los demás se aplicarán las reglas normales: si era Oz y su vigilante está muerto, te convertirás en hombre-lobo y pasarás a formar parte del bando de los vamnpiros y otros mostruos nocturnos. Si no, heredarás a su vigilante.
+      Los vampiros no puede convertirte, eres una rata, pero sí podrán hacerlo cuando entres en el cuerpo de otro personaje. 
     </value>
   </string>
   <string key="AboutCupid">
     <value>
-      El amor está en el aire. Como Cupido elegirás dos jugadores al principio de la partida. ¡Esos dos se enamorarán locamente! Si uno muere, el otro morirá de pena :(
-      Nota: Los amantes se conocerán entre sí, pero no sabrán sus roles. Si los amantes son los dos únicos supervivientes, ganarán, independientemente de sus equipos. Si están en distintos equipos (aldeano + hombre-lobo), y un equipo gana (hombre-lobo), el amante (aldeano) también ganará.
+      Como Demonio Vengador que eres, odias que cualquier persona trate de romper los mágicos lazos del amor. Por ese motivo, las dos personas que elijas al principio de la partida, estaran malditas bajo tu conjuro de amor, y nada, ni la muerte misma los separará. Si uno muero, el otro morirá con él :(
+      Nota: Los amantes se conocerán entre sí, pero no sabrán sus roles. Si los amantes son los dos únicos supervivientes, ganarán, independientemente de sus equipos. Si están en distintos equipos (potencial cazadora + vampiro), y un equipo gana, el amante también ganará.
 	  Si, estando vivos los dos, al menos uno de los amantes está en el equipo ganador, ganarán ambos.
     </value>
   </string>
   <string key="AboutHunter">
     <value>
-      Jugador vengativo y de gatillo fácil. Como el cazador, formas tu popio equipo. Y cuando alguien venga a visitarte, puede que se encuentren la muerte, ya que la paranoya puede contigo y disparas. Si son los hombres-lobo los que atacan, tienes una oportunidad de llevarte a uno por delante. Además, si te matan, tendrás la oportunidad de disparar a alguien mientras mueres.
-      Nota: Para los ataques de los hombres-lobo, la probabilidad empieza en un 30%. Si sólo hay un lobo, el cazador tiene un 30% de probabilidad de matarlo (y sobrevivir). Por cada hombre-lobo adicional, suma un 20% (2 hombre-lobo = 50%, 3 = 70%, etc). Ten en cuenta que si hay varios hombre-lobo, aunque mates a uno, te superan en número y morirás.
-      Si los cultistas intentan convertirte, tienen un 50% de probabilidad de fallar. Si fallan, ¡tú tendrás un 50% de probabilidad de matar a uno!
+      Eres un personaje al que le gusta seguir sus propias normas. Sabes que las peleas son buenas para tu alma, y siempre andas a la caza de un buen combate. Si alguien se atreviera a visitarte en tu cripta, podría llevarse un buen mordisco. Si los vampiros intentan atacarte, es muy probable que alguno muerda el polvo... Además, si te matan o linchan, tendrás la oportunidad de luchar y matar mientras mueres.
+      Nota: Para los ataques de los vampiros, la probabilidad empieza en un 30%. Si sólo hay un vampiro, Spike tiene un 30% de probabilidad de matarlo (y sobrevivir). Por cada vampiro adicional, suma un 20% (2 vampiros = 50%, 3 = 70%, etc). Ten en cuenta que si hay varios vampiros, aunque mates a uno, te superan en número y morirás.
+      Si los vampiros intentan convertirte al lado del mal, tienen un 50% de probabilidad de fallar. Si fallan, ¡tú tendrás un 50% de probabilidad de matar a uno!
     </value>
   </string>
   <string key="AboutSK">
-    <value>El manicomio era una idiotez. Menudo chiste. Pero ahora eres libre, de vuelta a tus asuntos - ¡matar! El asesino en serie es su propio equipo de 1. Ganará si es el último jugador en pie (excepto: amantes). Como asesino en serie, podrás matar a CUALQUIERA: hombre-lobo, cazador, justiciero, ángel guardián, quien sea. Si los hombres-lobo te atacan, matarás a uno de ellos (aleatorio), y sobrevivirás.</value>
+    <value>El Primero gana cuando solo él queda en pie. Como Mal Primigenio que eres, podrás matar a CUALQUIERA: vampiros, cazadoras, justicieros, vigilantes, quien sea. Si los vampiros te atacan, matarás a uno de ellos (aleatorio), y sobrevivirás.</value>
   </string>
   <string key="AboutPara">
-    <value>Para es el desarrollador majadero al que le gusta ladrarle a la gente. Puede que haya estado jugando con los hombres-lobo demasiado tiempo... Jugar con los hombres-lobo en una MUY mala idea.</value>
+    <value>Para es el desarrollador majadero al que le gusta morder a la gente. Puede que haya estado jugando con los vampiros demasiado tiempo... Jugar con los vampiros en una MUY mala idea.</value>
   </string>
   <string key="EndTime">
     <value>Duración de la partida: {0}</value>
@@ -1061,22 +1061,22 @@
     <value>Duración del linchamiento: {0} segundos.</value>
   </string>
   <string key="AllowFoolQ">
-    <value>¿Permitir necio?\nActualmente: {0}</value>
+    <value>¿Permitir Joyce Summers?\nActualmente: {0}</value>
   </string>
   <string key="AllowFoolA">
-    <value>El necio ahora: {0}</value>
+    <value>Joyce Summers ahora: {0}</value>
   </string>
   <string key="AllowTannerQ">
-    <value>¿Permitir veterano?\nActualmente: {0}</value>
+    <value>¿Permitir Glory-Ben?\nActualmente: {0}</value>
   </string>
   <string key="AllowTannerA">
-    <value>El veterano ahora: {0}</value>
+    <value>Glory-Ben ahora: {0}</value>
   </string>
   <string key="AllowCultQ">
-    <value>¿Permitir culto?\nActualmente: {0}</value>
+    <value>¿Permitir vampiros?\nActualmente: {0}</value>
   </string>
   <string key="AllowCultA">
-    <value>El culto ahora: {0}</value>
+    <value>Vampiros ahora: {0}</value>
   </string>
   <string key="ThankYou">
     <value>Gracias, que tengas un buen día :)</value>
@@ -1112,215 +1112,215 @@
   
   <!-- Update 4.0-->
   <string key="RoleInfoMayor">
-    <value>Eres el Alcalde. Tu voto a la hora de linchar contará el doble una vez hayas revelado tu rol al pueblo. Estás en el equipo de los aldeanos.</value>
+    <value>Eres el Director Snyder, y eres un incordio de persona. Tu voto a la hora de linchar contará el doble porque eres el director del instituto Sunnydale, cuando reveles tu cargo, todo el pueblo te conocerá.</value>
   </string>
   <string key="RoleInfoPrince">
-    <value>Eres el Príncipe. Dejaste tu aburrida y mimada vida por echar el día con los aldeanos. Si intentan lincharte, se arrepentirán y nadie será linchado.</value>
+    <value>Eres el Director del consejo de vigilantes, y por lo tanto, nunguna aspirante a cazadora puede rebatir tu autoridad. Si intentan lincharte, se arrepentirán y nadie será linchado.</value>
   </string>
   <string key="RoleInfoClumsyGuy">
-    <value>Eres el Torpe. Al votar tienes un 50% de probabilidades de votar por otra persona distinta a la que elegiste. Aun así, eres aldeano.</value>
+    <value>¡Eres la encantadora Harmony, una de las chicas más populares del instituto Sunnydaly y coleccionista apasionada de figuritas de porcelana con formas de unicornio! Al votar tienes un 50% de probabilidades de que te equivoques. A ti esos asuntos políticos ni te van ni te vienen mucho... ¡Tú, simplemente, disfruta de este maravilloso día!</value>
   </string>
   <string key="RoleInfoSorcerer">
-    <value>Eres la Hechicera. Prefieres aliarte con las criaturas de la noche en vez de con los aldeanos. Por la noche usarás tus poderes para encontrar a los hombres-lobo o a la Vidente. Solo ganas si los hombres-lobo ganan. ¡¡Disfruta ayudando a los hombres-lobo a librarse de los miserables aldeanos!!.</value>
+    <value>Eres la Drusilla. Tu lugar corresponde a la noche y a la oscuridad. Posees un inmenso poder, el cual usarás para encontrar a los vampiros o a la Bruja. Solo ganas si los vampiros ganan. ¡¡Libraos de esos miserables aldeanos!!.</value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>Eres el Herrero. El trabajador del metal en el pueblo. Tienes una pequeña cantidad de polvo de plata, suficiente para prevenir el ataque de los hombres-lobo durante una noche. Durante el día, podrás elegir si deseas esparcirla por el pueblo. Aparte de eso, eres un simple aldeano.</value>
+    <value>Eres el Director Wood, hijo de una cazadora, adiestrado para repeler vampiros. Conoces algunos conjuros místicos con los que prevenir el ataque de los vampiros durante una noche. Durante el día, podrás elegir si deseas lanzarlos.</value>
   </string>
   <string key="RoleInfoAlphaWolf">
-    <value>Eres el Lobo Alfa. Eres el origen de la maldición. Tu mordisco es la causa de la enfermedad que convierte a los aldeanos en hombre-lobo. Cada noche, podrás elegir un aldeano para atacarlo y matarlo, pero mientras estés vivo, existe un 20% de probabilidad de que se convierta en un hombre-lobo.</value>
+    <value>Eres El Maestro. Eres el origen de la maldición. Tu mordisco es la causa de la enfermedad que convierte a los demás personajes en vampiros. Cada noche, podrás elegir un inocente para beberte su sangre y matarlo, pero mientras estés vivo, existe un 20% de probabilidad de que se convierta en un vampiro.</value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>Eres el Lobezno. Adorado por tu manada. Como el resto de hombre-lobo, elegirás atacar a un aldeano y matarlo cada noche. Si mueres, tu manada entrará en cólera y atacará a dos aldeanos la próxima noche. Por desgracía, seguirás muerto.</value>
+    <value>Eres el Ungido. Criatura vampírica con forma de niño, adorado por los Vampiros. Como el resto, elegirás atacar a un inocente y matarlo cada noche. Si mueres, tus esbirros entrarán en cólera y atacarán a dos inocentes la próxima noche. Por desgracía, seguirás muerto.</value>
   </string>
   <string key="PrinceLynched">
-    <value>Mientras el pueblo empieza a linchar a {0}, de repente dice "¡Esperad, soy el Príncipe! Este anillo real, junto con su sello del rey lo demuestran. ¡Cada noche estoy rodeado de sirvientes, por lo que no puedo ser malo!" Avergonzados, los aldeanos se marchan a sus casas.</value>
+    <value>Mientras el pueblo empieza a linchar a {0}, de repente dice "¡Esperad, soy el Director del Consejo de Vigilantes! ¡Os ordeno que os detengais! Cazadoras y aspirantes bajan sus cabezas con resignación y detienen el linchamiento.</value>
   </string>
   <string key="SorcererOther">
-    <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo, sabes que no es hombre-lobo ni vidente...</value>
+    <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo, sabes que no es Vampiro ni Bruja...</value>
   </string>
   <string key="MayorReveal">
-    <value>{0} da un paso al frente y muestra su placa de la alcaldía, declarándose de esta forma como el Alcalde del pueblo. Desde ahora, los votos de {0} a la hora de linchar contarán el doble.</value>
+    <value>{0} da un paso al frente mostrándose como el Director Snyder del instituto Sunnydale. Desde ahora, los votos de {0} a la hora de linchar contarán el doble.</value>
   </string>
   <string key="AskMayor">
-    <value>Haz clic en Revelar cuando quieras revelarte al pueblo como el Alcalde.</value>
+    <value>Haz clic en Revelar cuando quieras revelarte al pueblo como el Director del instituto.</value>
   </string>
   <string key="Reveal">
     <value>Revelarme</value>
   </string>
   <string key="SpreadDust">
-    <value>¿Quieres esparcir la plata por pueblo para impedir que los hombres-lobo ataquen esta noche al pueblo?</value>
+    <value>¿Quieres lanzar un conjuro sobre el pueblo para impedir que los Vampiros maten esta noche?</value>
   </string>
   <string key="BlacksmithSpreadSilver">
-    <value>Mientras el resto del pueblo discute sobre los hechos acontecidos, de repente ven a {0} dando vueltas por el pueblo, espolvoreando plata por todo el suelo. Por ahora, el pueblo estará a salvo de los ataques de los hombres-lobo [los hombres-lobo no atacan esta noche].</value>
+    <value>Mientras el resto del pueblo discute, el Director Wood decide lanzar un conjuro de protección contra vampiros. Se reconoce así que {0} está del lado del bien. [Los Vampiros no matarán esta noche].</value>
   </string>
   <string key="Mayor">
-    <value>el Alcalde 🎖</value>
+    <value>el Director Snyder 🎖</value>
   </string>
   <string key="Prince">
-    <value>el Príncipe 👑</value>
+    <value>el Director del consejo de vigilantes 👑</value>
   </string>
   <string key="Sorcerer">
-    <value>la Hechicera 🔮</value>
+    <value>Drusilla 🔮</value>
   </string>
   <string key="ClumsyGuy">
-    <value>el Torpe 🤕</value>
+    <value>Harmony 🤕</value>
   </string>
   <string key="Blacksmith">
-    <value>el Herrero ⚒</value>
+    <value>el Director Wood ⚒</value>
   </string>
   <string key="AlphaWolf">
-    <value>el Lobo Alfa ⚡️</value>
+    <value>el Maestro ⚡️</value>
   </string>
   <string key="WolfCub">
-    <value>el Lobezno 🐶</value>
+    <value>el Ungido 🐶</value>
   </string>
   <string key="PlayerBittenWolves">
-    <value>Mientras los hombres-lobo atacan a {0}, {1} para a la manada ya que es el Lobo Alfa. {1} le dice a la manada que {0} debería unirse a ellos en lugar de morir, por lo que la manada lo suelta y deja que la infección siga su curso. Se convertirá en hombre-lobo la próxima noche.</value>
+    <value>Mientras los Vampiros atacan a {0}, {1} para a sus esbirros. {1} esm el Maestro y ha decidido que {0} debería unirse a ellos en lugar de morir, por lo que los vampiros lo sueltan y dejan que la infección siga su curso. Se convertirá en vampiro la próxima noche.</value>
   </string>
   <string key="PlayerBitten">
-    <value>Fuiste mordido por los hombres-lobo, pero el Lobo Alfa te escogió. En lugar de morir has sido infectado y... ¡te convertirás en hombre-lobo la próxima noche!</value>
+    <value>Fuiste mordido por los Vampiros, pero el Maestro te escogió. En lugar de morir has sido infectado y... ¡te convertirás en vampiro la próxima noche!</value>
   </string>
   <string key="BittenTurned">
-    <value>Mientras cae la noche, sientes un extraño hormigueo, sientes cómo tu cuerpo empieza a transformarse... ¡Ahora eres un hombre-lobo!</value>
+    <value>Mientras cae la noche, sientes un extraño hormigueo, sientes cómo tu cuerpo empieza a transformarse... ¡Ahora eres un VAMPIRO! Grr Argh...</value>
   </string>
   <string key="AboutMayor">
-    <value>Como alcalde, eres un simple aldeano, hasta que decidas revelarte. A partir de ese momento tus votos contarán el doble (por lo que tu voto será doblemente poderoso que el de cualquier otro jugador). Usa ese poder sabiamente para ayudar al pueblo.</value>
+    <value>Como director de instituto, eres un simple ciudadano, hasta que decidas revelarte. A partir de ese momento tus votos contarán el doble (por lo que tu voto será doblemente poderoso que el de cualquier otro jugador). Usa ese poder sabiamente para impartir disciplina a los jóvenes.</value>
   </string>
   <string key="AboutPrince">
-    <value>El Príncipe es un rol clave en la estrategía del equipo del pueblo. Si lo linchan, su rol como Príncipe será revelado y sobrevivirá. A partir de entonces sólo podrá ser asesinado por la noche (un Hombre-lobo o el Asesino) o por el Cazador.</value>
+    <value>El Director del Consejo de Vigilantes es un rol clave en la estrategía del equipo del bien. Si lo linchan, su rol como Consejero será revelado y sobrevivirá. A partir de entonces sólo podrá ser asesinado por un esbirro del mal.</value>
   </string>
   <string key="AboutSorcerer">
-    <value>¿Recuerdas a la Vidente? Pues bueno, ahora tiene alguien opuesto a ella en el equipo de los hombres-lobo. La Hechicera es la vidente de los hombres-lobo. Sólo puede ver si alguien es hombre-lobo o vidente, y gana cuando los hombres-lobo ganan.</value>
+    <value>¿Recuerdas a la Vidente? Pues bueno, ahora tiene alguien opuesto a ella en el equipo de los Vampiros. Drusilla es la vidente de los vampiros, y puede ayudarse de su puder para encontrarlos a ellos o a otras brujas con poder. Gana cuando los vampiros ganan.</value>
   </string>
   <string key="AboutClumsy">
-    <value>Eres el Torpe. Quizá no debiste haber tomado tanto alcohol al desayuno. No ves bien de lo borracho que estás. ¿Puedes al menos votar por la persona que quieres? (tienes 50% de probabilidades elegir a otra persona al azar).</value>
+    <value>Eres el Harmony. Quizá no debiste haber tomado tanto alcohol anoche en el Bronce. No ves bien de lo borracha que estás. ¿Puedes al menos votar por la persona que quieres? (tienes 50% de probabilidades elegir a otra persona al azar).</value>
   </string>
   <string key="AboutBlacksmith">
-    <value>Eres el Herrero. Durante los años, ningún filo o cuchilla te dio tanta satisfacción como aquellas espadas de plata que ordenaron los elfos.\nPuede que aún tengas un poco de polvo de plata restante, quién sabe. Ese polvo podría prevenir que los hombres-lobo se coman a alguien esta noche 🤔</value>
+    <value>Eres el Director Wood, hijo de una cazavampiros, y adiestrado en la lucha contra el mal.\nConoces algún un conjuro que otro contra Vampiros, y podrías usarlo para repelerlos durante la noche... 🤔</value>
   </string>
   <string key="AboutAlphaWolf">
-    <value>Eres el Lobo Alfa, el origen de la maldición, la perdición de los perdidos. Mientras estés vivo, el bocado de la manada tiene 20% de probabilidades de unirse a sus filas si la víctima es aquella por quien votaste.</value>
+    <value>Eres el Maestro, el origen de la maldición, la perdición de los perdidos. Mientras estés vivo, el mordisco de un Vampiro tiene 20% de probabilidades de convertir a tus filas si la víctima es aquella por quien votaste.</value>
   </string>
   <string key="AboutWolfCub">
-    <value>¡Aww, qué lobezno mas precioso! _Le hace cosquillas_ -cof cof-... Como venía diciendo, eres el Lobezno y si alguien te mata, le daré a los hombres-lobo dos víctimas. Eres muy tierno para morir, no podré hacerte más cosquillas :(.</value>
+    <value>Eres el Ungido, un siniestro Vampiro con forma de niño. Eres de gran importancia para los planes de los vampiros,y si alguien te mata, los Vampiros podrán matar dos veces por la noche, pero tú seguirás muerto :(.</value>
   </string>
 
   <!-- new strings 06 nov-->
   <string key="DGTransformToAlpha">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} ha muerto por lo que te has transformado en el Lobo Alfa. Tu manada (si la hay) es: {1}</value>
+    <value>{0} ha muerto por lo que te has transformado en el Maestro. Tus esbirros (si los hay) son: {1}</value>
   </string>
   <string key="DGTransformToWolfCub">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} ha muerto por lo que te has transformado en el Lobezno. Tu manada (si la hay) es: {1}</value>
+    <value>{0} ha muerto por lo que te has transformado en el Ungido. Tus esbirros (si los hay) son: {1}</value>
   </string>
   
   <string key="VillageTeam">
-    <value>Equipo del Pueblo</value>
+    <value>Equipo de las cazadoras</value>
   </string>
   <string key="NeutralTeam">
     <value>Equipo Neutral</value>
   </string>
   <string key="WolfTeam">
-    <value>Equipo de los hombres-lobo</value>
+    <value>Equipo de los Vampiros</value>
   </string>
   <string key="SerialKillerTeam">
-    <value>Equipo del Asesino</value>
+    <value>Equipo de El Primero</value>
   </string>
   <string key="CultTeam">
-    <value>Equipo del Culto</value>
+    <value>Equipo de los vampiros</value>
   </string>
   <string key="TannerTeam">
-    <value>Equipo del Veterano</value>
+    <value>Equipo de Glory-Ben</value>
   </string>
   
   
   <string key="VillageTeamEnd">
-    <value>Equipo del Pueblo</value>
+    <value>Equipo de Sunnydale</value>
   </string>
   <string key="NeutralTeamEnd">
     <value>Equipo Neutral</value>
   </string>
   <string key="WolfTeamEnd">
-    <value>Equipo de los Hombres-lobo</value>
+    <value>Equipo de los Vampiros</value>
   </string>
   <string key="SerialKillerTeamEnd">
-    <value>Equipo del Asesino</value>
+    <value>Equipo de El Primero</value>
   </string>
   <string key="CultTeamEnd">
-    <value>Equipo del Culto</value>
+    <value>Equipo de los vampiros</value>
   </string>
   <string key="TannerTeamEnd">
-    <value>Equipo del Veterano</value>
+    <value>Equipo de Glory-Ben</value>
   </string>
   
   <string key="CultConvertWolf">
-    <value>El culto envía a {0} para intentar convertir a {1}, pero en su lugar, la cabeza de {0} sale volando por la ventana. Me pregunto si pensaban que {0} era incomible... porque ahora está muerto..</value>
+    <value>Los vampiros envían a {0} para intentar convertir a {1}, pero en su lugar, la cabeza de {0} sale volando por la ventana. Me pregunto si pensaban que {0} era incomible... porque ahora está muerto..</value>
   </string>
   <string key="HarlotFuckedKilledPublic"> <!-- used when Harlot visit's SK's victim, and dies -->
     <!--{0} = Harlot name, {1} = SK's victim name-->
-    <value>{0} se metió en la casa de {1} listo para pasar una noche de pasión y locura, pero en lugar de eso, se encontró a un ser misterioso, sacado de un manicomio, que se dedica a extraer los órganos vitales de las personas! Aún así, el asesino en serie decide satisfacer los deseos de {0}, y le deja pasar su última noche de travesura, antes de añadir el corazón de la Ramera a su colección!</value>
+    <value>{0}, o como la conocen sus amigos, Cordy, conoció anoche a {1}, listo para pasar una noche de pasión y locura con ella. Sin embargo, se encontró a un ser misterioso... {0} ha muerto.</value>
   </string>
   
   
   <!--New Death Strings 05 DEC-->
   <string key="ApprenticeSeerEaten">
-    <value>El pueblo se despierta y se encuentra el cuerpo decapitado de {0} tumbada sobre un tablero de Ouija de segunda mano mientras practicaba tarot. El aprendiz de vidente está muerto.</value>
+    <value>El pueblo se despierta y se encuentra el cuerpo decapitado de {0} tumbada sobre un tablero de Ouija que Willow le había prestado. Tara la Bruja está muerta.</value>
   </string>
   <string key="BlacksmithKilled">
-    <value>Parece que {0}, el Herrerro del pueblo, ha tenido muy mala suerte durante la noche... ya que se le ha encontrado en su mesa de herrería junto con 5 cuchillos, sacados de su armería, clavados en manos, pies y cabeza. Tal vez el asesino tenía la esperanza de ampliar su colección de armas con el corazón, higado y estómago de {0}...</value>
+    <value>Parece que {0}, el Director Wood, ha tenido muy mala suerte durante la noche... ya que se le ha encontrado en su despacho junto a un mensaje escrito en la pizarra: Desde abajo, te debora... {0} ha muerto...</value>
   </string>
   <string key="CultistKilled">
-    <value>{0} fue apuñalado hasta la muerte con un candelabro al lado de su altar. ¡El asesino en serie ha golpeado de nuevo, sin importar la raza, el idioma o la religión! {0} era un Cultista.</value>
+    <value>{0} ha muerto. {0} era un vampiro.</value>
   </string>
   <string key="CupidKilled">
-    <value>A la mañana siguiente, los aldeanos se levantaron destrozados al encontrar a cupido, {0}, dividido en dos... Extrañamente faltaba el corazón...</value>
+    <value>A la mañana siguiente, los aldeanos se levantaron destrozados al encontrar a Anya ensartada en una espada. Abrieron en canal a {0}, y se llevaron su corazón...</value>
   </string>
   <string key="DrunkKilled">
-    <value>Los aldeanos esperaban quedar con su Ramera preferida, {0}, pero lo único que encontraron en su casa fue un cuchillo y un hígado encima de la mesa. Tantos años bebiendo hicieron que el hígado estuviera tan podrido que ni el asesino en serie lo quiso ...</value>
+    <value>Las cazadoras esperaban quedar con Cordelia, {0}, pero lo único que encontraron en su casa fue un gran charco de sangre con el mensaje de sus últimas palabras: Desde abajo te debora...</value>
   </string>
   <string key="GuardianAngelKilled">
-    <value>{0} normalmente habría luchado contra el asesino en serie, pero es irónico que hasta el halo que rodeaba al ángel de la guarda se ha extinguido. {0} está muerto.</value>
+    <value>{0} normalmente habrías luchado contra cualquier monstruo, pero por esta vez preferiste correr y ahora eres pasto de los gusanos querido Wesley. {0} está muerto.</value>
   </string>
   <string key="GunnerKilled">
-    <value>¡Parece que {0} fue sorprendido anoche! Se escuchó un tiro, pero solo se pudo encontrar los restos de lo que parece ser un justiciero, con un agujero de bala en la cabeza y una puñalada al torso. Es evidente que el asesino en serie ha ganado...</value>
+    <value>¡Parece que {0} fue sorprendido anoche! Se escuchó un tiro, pero solo se pudo encontrar los restos de lo que parece ser Riley, con un agujero de bala en la cabeza. Parece que El Primero consiguió que se volviera loco...</value>
   </string>
   <string key="MayorKilled">
-    <value>¡Asesinato! Los aldeanos se han encontrado a {0}, el Alcalde, apuñalado por la espalda, mientras trabajaba en su despacho por la noche! Parece que el asesino en serie se ha vengado por todos los años que pasó metido dentro de un manicomio por culpa del Alcalde...</value>
+    <value>¡Asesinato! Las cazadoras se han encontrado a {0}, el Director Snyder, apuñalado por la espalda, mientras trabajaba en su despacho por la noche! Parece ser que El Primero no lo necesitaba para nada más...</value>
   </string>
   <string key="PrinceKilled">
-    <value>Suenan las campanas en todo el pueblo antes del amanecer, guardias armados inundan las calles investigando la desaparición de {0}, el Príncipe. No se descubrieron pistas, pero se sospecha que hay un asesino en serie suelto... El Principe ha muerto</value>
-    <value>Parece ser que los guardias del principe se han dormido esta noche... Se han encontrado los restos de {0} colgados en varias habitaciones del palacio, siendo presa de un cuchillo... Parece que, a pesar de todo, el principe sigue siendo un simple mortal más a manos del asesino en serie...</value>
+    <value>El Primer Mal ha acabado con todo el Consejo de Vigilantes y entre ellos, estaba su director. {0} ha muerto. </value>
+    <value>Parece ser que el Consejo de Vigilantes y los han matado a todos esta noche... Se han encontrado los restos de {0} colgados en varias habitaciones de su residencia oficial.</value>
   </string>
   <string key="SeerKilled">
-    <value>Los aldeanos se despiertan con el hedor del cadáver podrido de {0}... El cuerpo, acuchillado 94 veces, fue decapitado. Extrañamente, el cerebro fue extraído cuidadosamente, por lo que parece ser que poseía poderes paranormales... {0} era la Vidente.</value>
+    <value>Los habitantes de Sunnydale se despiertan con el hedor del cadáver podrido de {0}, quien era Xander, el mejor amigo de Willow la Bruja.</value>
   </string>
   <string key="SorcererEaten">
-    <value>Se oyen aullidos entristecidos por todo el pueblo...  Los lobos han matado a {0}, cometiendo un gran error. Era de los suyos. La Hechicera ha muerto.</value>
-    <value>Anoche se escucharon gritos diciendo: "¡Soy tu aliado!"... A la mañana siguiente, los aldeanos encontraron un cuerpo exhumado junto con una bola de cristal pero algo oscura. No parece ser la misma que la que usa la Vidente. Pertenecía a {0}, la Hechicera. El hambre supera a la camada...</value>
+    <value>Se oyen aullidos entristecidos por todo el pueblo...  Los Vampiros han matado a {0}, cometiendo un gran error. Era de los suyos. Drusilla ha muerto.</value>
+    <value>Anoche se escucharon gritos de ultratumba diciendo: "¡Estamos en el mismo bando!"... A la mañana siguiente, los aldeanos encontraron una montaña de polvo junto con una bola de cristal pero algo oscura. No parece ser la misma que la que usa la Bruja Willow. Pertenecía a {0}.</value>
   </string>
   <string key="WildChildEaten">
-    <value>ÑAMÑAMÑAM! Anoche se oyeron a los lobos comiendose a un tierno niño salvaje, {0}, ¡dejando únicamente el pequeño esqueleto! El pueblo se pregunta si los lobos sintieron alguna culpa mientras destripaban al pobre niño indefenso...</value>
+    <value>Anoche los Vampiros encontraron a Oz indefenso en su jaula. Deboraron a {0}, ¡dejando únicamente su pequeño esqueleto!</value>
   </string>
   <string key="SerialKillerKilledCH"> <!--used when CH visits SK-->
-    <value>Los aldeanos se despertaron por la mañana, y se encontraron los restos del cuerpo de {0}, el Cazador de Cultistas, cortados en pedazos en un carro al lado del ayuntamiento. Lección aprendida: ¡No hay que visitar al asesino en serie!</value>
-    <value>El cuerpo de {0}, el Cazador de Cultistas, fue encontrado en el centro de la ciudad cortado en un centenar de piezas. Comprobar si el asesino en serie era un cultista no parece ser una buena idea...</value>
+    <value>Los ciudadanos de Sunnydale se despertaron por la mañana, y se encontraron los restos del cuerpo de {0}, Buffy la cazavampiros, cortados en pedazos en un carro al lado del ayuntamiento. Lección aprendida: Nadie puede impedir el avance de El Primero...</value>
+    <value>El cuerpo de {0}, el Buffy la cazavampiros, fue encontrado en el centro de la ciudad cortado en un centenar de piezas. Comprobar si El Primero está de parte de los vampiros, no parece ser una buena idea...</value>
   </string>
   <string key="CultConvertWolfPublic"> <!--used when Cultists convert the wolves, only if wolves stayed home-->
-    <value>Aunque parecía que los hombres-lobo habían decidido quedarse en casa, un cultista decidió visitarlos, siendo demasiado difícil de resistir para los hombres-lobo. ¡La cabeza de {0} se convirtió en una deliciosa cena!</value>
-    <value>El culto se encontró con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a un hombre-lobo, justo la noche que los hombres-lobo habían decidido quedarse en casa. Desafortunadamente para el culto, los hombres-lobo no tienen ningún interés en unirse al nuevo movimiento religioso y era una oportunidad que no podían dejar pasar... {0} ha muerto.</value>
+    <value>Aunque parecía que los Vampiros habían decidido quedarse en casa, otros vampiro decidió visitarlos, siendo demasiado difícil de resistir para los primeros. ¡La cabeza de {0} se convirtió en una magnífica bola de jugar a los bolos!</value>
+    <value>Los vampiros se encontraron con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a otro Vampiro, justo la noche que habían decidido quedarse en casa. Desafortunadamente no tienen ningún interés en unirse a nuestro clan. {0} ha muerto.</value>
   </string>
   <string key="CultConvertKillerPublic"> <!--used when Cultists convert the SK-->
-    <value>El culto pensaba que tendrían un nuevo miembro en sus filas, pero, ¡estaban equivocados! {0}, un cultista, fue descuartizado y sus restos fueron esparcidos por todo el pueblo! Extrañamente, el libro "santo" estaba junto a un cuchillo, como muestra clara de qué religión es la que manda.</value>
-    <value>Anoche, el culto trató de convertir al aldeano más loco del pueblo... Su miembro más reciente, {0}, trató de convertir al asesino en serie, y éste hizo una nueva obra de arte en la plaza del pueblo, exhibiendo todos los órganos internos al pueblo...</value>
+    <value>Los vampiros pensaban que tendrían un nuevo miembro en sus filas, pero, ¡estaban equivocados! {0}, un vampiro, fue decapitado. El Primer Mal no discrimina y acabará con todos...</value>
+    <value>Anoche, los vampiros trataron de convertir al Primer Mal... Su miembro más reciente, {0}, trató de convertirlo y éste hizo una nueva obra de arte con sus intestinos...</value>
   </string>
   <string key="GAGuardedKiller"> <!-- used when GA guards SK -->
-    <value>Se suponía que iba a ser una noche donde {0}, el Ángel de la Guarda, salvaría al pueblo de los asesinos, pero el asesino en serie extinguió su halo y le arráncó las alas! A la izquierda del cuerpo dejó una nota que decía: "Sé protegerme mejor qué tú."</value>
+    <value>Se suponía que iba a ser una noche donde {0}, el Wesley, salvaría a Sunnydale de los malvados, pero se topó con el Mal Primigenio... Ahora el vigilante es historia.</value>
   </string>
   <string key="GAGuardedWolf"> <!-- used when GA guards a wolf -->
-    <value>El Ángel de la Guarda, {0}, trató de proteger a un lobo anoche. Al amanecer el pueblo se encontró las alas de {0} colgadas en la cruz de la iglesia. Sin comerlo ni beberlo, los hombres-lobo recibieron un buen aperitivo extra por parte de Dios, gratis, y sin tener que desplazarse. ¡Todo un lujo, vaya!</value>
+    <value>Wesley Wyndam-Price, {0}, trató de proteger a un vampiro anoche. Al amanecer las cazadoras encontraron los restos esparcidos de {0} por toda la plaza del pueblo.</value>
   </string>
   
 </strings>
